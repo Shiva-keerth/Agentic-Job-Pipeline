@@ -3,7 +3,7 @@ import json
 import requests
 import time
 from bs4 import BeautifulSoup
-from core.llm_evaluator import evaluate_job, pre_filter_experience, is_blacklisted, has_aggregator_signals
+from core.llm_evaluator import evaluate_job, pre_filter_experience, is_blacklisted, has_aggregator_signals, log_telemetry
 
 HEADERS = {
     "User-Agent": (
@@ -41,7 +41,9 @@ for url in urls:
             link = link_tag["href"].split("?")[0] if link_tag else ""
             
             if not title or not link: continue
-            if is_blacklisted(company): continue
+            if is_blacklisted(company): 
+                log_telemetry(company, title, 'BLACKLIST', 'regex', False, 0, 0, 0.0, 'BLACKLISTED', 'Blacklisted company')
+                continue
             
             # Print without weird characters for Windows terminal
             safe_title = title.encode('ascii', 'ignore').decode('ascii')
@@ -49,9 +51,12 @@ for url in urls:
             print(f"Checking: {safe_title} @ {safe_company}")
             
             jd_text = fetch_jd_text(link)
-            if not jd_text or has_aggregator_signals(jd_text): continue
+            if not jd_text or has_aggregator_signals(jd_text): 
+                log_telemetry(company, title, 'BLACKLIST', 'regex', False, 0, 0, 0.0, 'BLACKLISTED', 'Aggregator signals found or empty JD')
+                continue
             is_filtered, match_str = pre_filter_experience(jd_text, title)
             if is_filtered: 
+                log_telemetry(company, title, 'PRE_FILTER', 'regex', False, 0, 0, 0.0, 'DISQUALIFIED', f"Matched: '{match_str}'")
                 print(f" -> Rejected by pre-filter (Matched: '{match_str}')")
                 continue
             

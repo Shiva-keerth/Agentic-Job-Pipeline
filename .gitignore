@@ -19,4 +19,5 @@ __pycache__/
 # Database
 database/outcome_log.db
 database/*.db
+!database/demo_telemetry.db
 *.sqlite3
