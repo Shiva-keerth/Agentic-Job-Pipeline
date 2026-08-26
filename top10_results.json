@@ -1,0 +1,227 @@
+[
+  {
+    "title": "AIML - Gen AI Developer",
+    "company": "HCLTech",
+    "url": "https://in.linkedin.com/jobs/view/aiml-gen-ai-developer-at-hcltech-4441938475",
+    "score": 88,
+    "verdict": "Strong Match",
+    "reason": "The candidate satisfies the 1‑year experience threshold and possesses extensive Python, RAG, vector search, and agentic AI expertise that align directly with the JD. Their portfolio demonstrates production‑ready deployments and relevant tooling, making them an excellent fit for the role.",
+    "experience_required": "at least 1 year of relevant experience",
+    "matched_skills": [
+      "Python",
+      "Prompt Engineering",
+      "RAG pipelines / Retrieval Augmented Generation",
+      "Vector databases (ChromaDB, FAISS)",
+      "Agentic AI / Multi‑agent systems",
+      "LangChain / LangGraph ReAct agents",
+      "LLM APIs (Groq, Llama‑3.3‑70B)",
+      "FastAPI",
+      "Docker",
+      "AWS EC2"
+    ],
+    "missing_skills": []
+  },
+  {
+    "title": "AI / Cloud Support Engineer",
+    "company": "Virtusa",
+    "url": "https://in.linkedin.com/jobs/view/ai-cloud-support-engineer-at-virtusa-4421103645",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The candidate's expertise in Python, RAG, embeddings, vector stores, and production-ready services aligns closely with the JD. While lacking explicit CI/CD and Kubernetes experience, the overall skill overlap is strong, making this a high-priority application.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "RAG",
+      "Embeddings",
+      "Vector databases",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "LLMs (Llama-3.3-70B, Groq API)"
+    ],
+    "missing_skills": [
+      "CI/CD pipelines",
+      "Kubernetes",
+      "Observability/Monitoring tools"
+    ]
+  },
+  {
+    "title": "AI Customer Engineer",
+    "company": "Cognizant",
+    "url": "https://in.linkedin.com/jobs/view/ai-customer-engineer-at-cognizant-4392572930",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "Candidate's experience with LangChain, LangGraph, RAG, prompt engineering, FastAPI, Docker, and AWS aligns well with the JD's focus on AI agents, RAG pipelines, and cloud‑native deployments. Only the specific Google ADK experience is missing, but overall the skill set is a strong match.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "LangChain",
+      "LangGraph",
+      "RAG pipelines",
+      "Prompt Engineering",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "LLM integrations",
+      "Multi-agent systems"
+    ],
+    "missing_skills": [
+      "Google AI Developer Kit (Google ADK)"
+    ]
+  },
+  {
+    "title": "AI,ML GEN AI Engineer",
+    "company": "Infosys",
+    "url": "https://in.linkedin.com/jobs/view/ai-ml-gen-ai-engineer-at-infosys-4439802051",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The JD does not state any minimum years of experience, and the candidate's expertise in AI, ML, Gen AI, RAG, and related tooling aligns closely with the role. Minor gaps in explicit configuration management tools do not outweigh the strong technical fit.",
+    "experience_required": "Not specified (entry-level/fresher implied)",
+    "matched_skills": [
+      "AI",
+      "ML",
+      "Generative AI",
+      "Retrieval Augmented Generation (RAG)",
+      "Python",
+      "Docker",
+      "AWS",
+      "FastAPI",
+      "Vector databases",
+      "Knowledge Graphs",
+      "Prompt Engineering"
+    ],
+    "missing_skills": [
+      "Software configuration management (e.g., Git/SVN)",
+      "Formal consulting/project lead experience"
+    ]
+  },
+  {
+    "title": "Generative AI Engineer",
+    "company": "Strategic Ventures-in",
+    "url": "https://in.linkedin.com/jobs/view/generative-ai-engineer-at-strategic-ventures-in-4441304114",
+    "score": 78,
+    "verdict": "Good Fit",
+    "reason": "Candidate matches most core technical requirements and has relevant project experience, but falls short on the stated minimum experience and specific LLM API exposure.",
+    "experience_required": "1+ year of experience in AI or Python development",
+    "matched_skills": [
+      "LangChain",
+      "Prompt Engineering",
+      "FastAPI",
+      "Docker",
+      "AWS",
+      "ChromaDB",
+      "Speech-to-Text",
+      "RAG pipelines",
+      "Python"
+    ],
+    "missing_skills": [
+      "1+ year professional experience (candidate has 8 months)",
+      "OpenAI/Gemini/Claude API experience"
+    ]
+  },
+  {
+    "title": "Technical Support Engineer (Bengaluru)",
+    "company": "WisdomAI",
+    "url": "https://in.linkedin.com/jobs/view/technical-support-engineer-bengaluru-at-wisdomai-4395145577",
+    "score": 78,
+    "verdict": "Good Fit",
+    "reason": "The JD does not demand any years of experience, and the candidate's strong Python, FastAPI, Docker, AWS, and AI engineering background aligns well with the support engineer responsibilities. Missing only niche tools (Slack, Pylon) and deep data‑warehouse exposure, resulting in a solid but not perfect fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "API integration",
+      "Data pipelines",
+      "AI/LLM development",
+      "Troubleshooting"
+    ],
+    "missing_skills": [
+      "Slack (real‑time support platform)",
+      "Pylon (internal tool)",
+      "Explicit data‑warehouse/SQL experience"
+    ]
+  },
+  {
+    "title": "AI Developer",
+    "company": "Quest Global",
+    "url": "https://in.linkedin.com/jobs/view/ai-developer-at-quest-global-4439853146",
+    "score": 75,
+    "verdict": "Good Fit",
+    "reason": "The candidate’s strong background in Python, LLMs, API design (FastAPI), containerization (Docker) and cloud deployment (AWS) aligns well with the AI Developer role. Gaps exist in explicit computer‑vision and deep‑learning framework experience, but overall the skill overlap is solid for a generative AI focus.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "LLM (Llama-3.3-70B)",
+      "NLP",
+      "API development",
+      "Data processing"
+    ],
+    "missing_skills": [
+      "Computer Vision",
+      "TensorFlow/PyTorch",
+      "Predictive Analytics"
+    ]
+  },
+  {
+    "title": "AI Developer",
+    "company": "Centreax Technologies",
+    "url": "https://in.linkedin.com/jobs/view/ai-developer-at-centreax-technologies-4437253380",
+    "score": 72,
+    "verdict": "Good Fit",
+    "reason": "The JD does not state a minimum experience threshold, so the candidate passes the mandatory check. Their strong Python, FastAPI, Docker, AWS, and AI/ML expertise align with the AI developer responsibilities, though they lack .NET/Java/PHP experience mentioned as part of the company's broader tech stack. Overall fit is good, warranting an application.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS",
+      "AI/ML",
+      "LLM",
+      "Vector databases"
+    ],
+    "missing_skills": [
+      ".NET",
+      "Java",
+      "PHP"
+    ]
+  },
+  {
+    "title": "Gen AI Developer",
+    "company": "Infosys",
+    "url": "https://in.linkedin.com/jobs/view/gen-ai-developer-at-infosys-4439480899",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The JD does not specify years of experience and seeks entry-level talent with solid software engineering fundamentals. The candidate's Python, FastAPI, Docker, and AWS experience align well with these expectations, though the role lacks specific AI/LLM requirements. Overall fit is good for an entry-level position.",
+    "experience_required": "Entry level / Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS",
+      "Agile methodologies"
+    ],
+    "missing_skills": []
+  },
+  {
+    "title": "Data Scientist I",
+    "company": "Honeywell Technologies",
+    "url": "https://in.linkedin.com/jobs/view/data-scientist-i-at-honeywell-technologies-4422474187",
+    "score": 68,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets the entry‑level experience requirement and possesses Python and machine‑learning expertise, aligning with core JD needs. However, they lack explicit statistical modeling experience and R proficiency, which are hard requirements, resulting in a good but not strong match.",
+    "experience_required": "0+ years of experience in data science",
+    "matched_skills": [
+      "Python",
+      "Machine Learning",
+      "Data Analysis"
+    ],
+    "missing_skills": [
+      "Statistical Modeling",
+      "R"
+    ]
+  }
+]

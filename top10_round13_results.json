@@ -1,0 +1,193 @@
+[
+  {
+    "title": "Artificial Intelligence Intern (AI, Generative AI, Python)",
+    "company": "MediNex Workforce",
+    "url": "https://in.linkedin.com/jobs/view/artificial-intelligence-intern-ai-generative-ai-python-at-medinex-workforce-4453991238",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The internship requires Python and basic generative AI knowledge; the candidate possesses strong Python expertise and extensive generative AI project experience, covering all hard requirements. No critical skills are missing, leading to a strong fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "Generative AI (LLM, LangChain)",
+      "RAG pipelines",
+      "Automation (Docker)"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "Generative AI / Agentic AI Trainer",
+    "company": "Naresh i Technologies",
+    "url": "https://in.linkedin.com/jobs/view/generative-ai-agentic-ai-trainer-at-naresh-i-technologies-4454213641",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The JD seeks a trainer on generative and agentic AI without any experience threshold. The candidate's extensive work with LLMs, LangChain/Graph, RAG pipelines, and cloud deployment aligns perfectly, meeting all implied requirements.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "LangChain",
+      "LangGraph",
+      "Agentic AI",
+      "Generative AI",
+      "Large Language Models (LLMs)",
+      "Prompt Engineering",
+      "Retrieval Augmented Generation",
+      "FastAPI",
+      "Docker",
+      "AWS"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "Python Developer Intern",
+    "company": "Zenithbyte",
+    "url": "https://in.linkedin.com/jobs/view/python-developer-intern-at-zenithbyte-4455159510",
+    "score": 78,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets all core requirements (Python, OOP, SQL, REST APIs, Git) and brings additional backend and cloud experience. Lacks only the preferred Django/Flask experience, making them a good fit for the internship.",
+    "experience_required": "Not specified (internship, 0-1 years)",
+    "matched_skills": [
+      "Python",
+      "Object-Oriented Programming",
+      "SQL (SQLite)",
+      "REST APIs (FastAPI)",
+      "Git/GitHub",
+      "Docker",
+      "AWS EC2",
+      "FastAPI"
+    ],
+    "missing_skills": [
+      "Django",
+      "Flask"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills appear to be optional tools, not core blockers",
+    "is_external_apply": false
+  },
+  {
+    "title": "Python Developer Intern (Python, Django, REST API)",
+    "company": "MediNex Workforce",
+    "url": "https://in.linkedin.com/jobs/view/python-developer-intern-python-django-rest-api-at-medinex-workforce-4453996252",
+    "score": 75,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets all core requirements (Python, REST APIs, databases, and backend development) and brings additional strengths in FastAPI, Docker, and cloud deployment. The only notable gap is lack of explicit Django experience, which is optional. Overall a solid match for an intern role.",
+    "experience_required": "Not specified (internship, entry-level)",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "REST API development",
+      "Docker",
+      "AWS EC2",
+      "Database handling (SQLite, Supabase, Neo4j)",
+      "Object‑oriented programming",
+      "Debugging and testing"
+    ],
+    "missing_skills": [
+      "Django"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills appear to be optional tools, not core blockers",
+    "is_external_apply": false
+  },
+  {
+    "title": "AI - Software Engineer",
+    "company": "KapariAI",
+    "url": "https://in.linkedin.com/jobs/view/ai-software-engineer-at-kapariai-4453999452",
+    "score": 72,
+    "verdict": "Good Fit",
+    "reason": "The JD only requires general software development proficiency, which aligns with the candidate's Python, FastAPI, Docker, and AWS experience. Their AI and LLM project work adds extra value, making them a strong candidate for this part‑time remote role.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS",
+      "AI/LLM development",
+      "Backend development"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "Software Engineer Intern",
+    "company": "Engagezy AI",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-intern-at-engagezy-ai-4452214020",
+    "score": 72,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets the core requirements of Python backend development, API design, and containerization, aligning well with the intern role. Missing only language-specific (Java/JavaScript) and explicit CI/CD tool experience, which are not strict hard requirements.",
+    "experience_required": "Not specified (internship, typically 0-1 year)",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "API development",
+      "Version control"
+    ],
+    "missing_skills": [
+      "Java",
+      "JavaScript",
+      "Explicit CI/CD tools (e.g., Jenkins, GitHub Actions)"
+    ],
+    "apply_decision": "SKIP",
+    "apply_reason": "Core skill gaps: java",
+    "is_external_apply": false
+  },
+  {
+    "title": "Full Stack Software Engineer (Remote)",
+    "company": "Hired",
+    "url": "https://in.linkedin.com/jobs/view/full-stack-software-engineer-remote-at-hired-4455242186",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets core requirements such as Python, Docker, AWS, and database/API experience, aligning well with the role. Gaps include CI/CD, Kubernetes, and a mainstream front‑end framework, keeping the fit solid but not perfect.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "Docker",
+      "AWS",
+      "FastAPI",
+      "SQL (SQLite, Supabase)",
+      "NoSQL (Neo4j, ChromaDB)",
+      "API integration"
+    ],
+    "missing_skills": [
+      "CI/CD pipelines",
+      "Kubernetes",
+      "Front-end framework (e.g., React/JavaScript)"
+    ],
+    "apply_decision": "SKIP",
+    "apply_reason": "Core skill gaps: java",
+    "is_external_apply": false
+  },
+  {
+    "title": "Software Engineer - FinTech (Remote)",
+    "company": "Quik Hire Staffing",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4455218894",
+    "score": 65,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets core technical requirements (Python, API development, Docker, AWS, PostgreSQL) but lacks direct experience with payment processing and explicit microservices/Kubernetes knowledge, placing them as a good but not perfect match.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS",
+      "Supabase (PostgreSQL)"
+    ],
+    "missing_skills": [
+      "Financial transaction systems / payment processing",
+      "Distributed systems / microservices architecture",
+      "Kubernetes"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Only tool gaps (learnable): kubernetes",
+    "is_external_apply": false
+  }
+]

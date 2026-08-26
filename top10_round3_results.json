@@ -1,0 +1,209 @@
+[
+  {
+    "title": "Cloud AI Engineer",
+    "company": "Analog Devices",
+    "url": "https://in.linkedin.com/jobs/view/cloud-ai-engineer-at-analog-devices-4438714129",
+    "score": 88,
+    "verdict": "Strong Match",
+    "reason": "The JD seeks an entry‑level Cloud/AI Engineer with cloud and AI expertise. The candidate has relevant Python, AWS, Docker, and FastAPI experience plus solid AI project work, exceeding the minimal requirements.",
+    "experience_required": "Entry-level (0-1 years, recent graduate)",
+    "matched_skills": [
+      "Python",
+      "AWS",
+      "Docker",
+      "FastAPI",
+      "AI/ML"
+    ],
+    "missing_skills": []
+  },
+  {
+    "title": "Software Engineer ( Entry Level)  – AI Tooling & Developer Productivity",
+    "company": "iPrime Services Pvt Ltd , NCR India",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-entry-level-%E2%80%93-ai-tooling-developer-productivity-at-iprime-services-pvt-ltd-ncr-india-4442040100",
+    "score": 88,
+    "verdict": "Strong Match",
+    "reason": "The JD seeks a 0‑1 year entry‑level software engineer for AI tooling, which aligns with the candidate's Python, FastAPI, Docker, AWS, and AI expertise. No hard technical requirements are listed that the candidate lacks, resulting in a strong fit.",
+    "experience_required": "0–1 year (Fresh Graduate)",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS",
+      "AI/ML"
+    ],
+    "missing_skills": []
+  },
+  {
+    "title": "AI/ML Engineer",
+    "company": "Axension AI",
+    "url": "https://in.linkedin.com/jobs/view/ai-ml-engineer-at-axension-ai-4440166074",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The JD seeks an AI/ML Engineer focused on agentic AI and autonomous systems, which aligns closely with the candidate's expertise in agentic AI, multi‑agent frameworks, LLMs, and deployment tools. No explicit hard requirements are missing, making this a strong fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Agentic AI",
+      "Multi-agent systems",
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "LLM inference",
+      "Retrieval Augmented Generation",
+      "RAG pipelines",
+      "LangChain",
+      "LangGraph"
+    ],
+    "missing_skills": []
+  },
+  {
+    "title": "AI Application Developer in Delhi",
+    "company": "Growify Digital",
+    "url": "https://in.linkedin.com/jobs/view/ai-application-developer-in-delhi-at-growify-digital-4443068123",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The JD has no experience year requirement, and the candidate's expertise in multi‑agent AI frameworks, cloud deployment (AWS, Docker), and production‑ready APIs aligns closely with the role. Missing only peripheral frontend and IaC skills, resulting in a strong overall fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "LangChain",
+      "LangGraph",
+      "ReAct agents",
+      "Multi-agent systems",
+      "AWS EC2",
+      "Docker",
+      "FastAPI",
+      "Llama-3.3-70B",
+      "Groq API",
+      "Retrieval Augmented Generation",
+      "Vector databases"
+    ],
+    "missing_skills": [
+      "Frontend UI/UX design (e.g., React, JavaScript)",
+      "Infrastructure-as-code tools (e.g., Terraform, CloudFormation)",
+      "Explicit cloud architecture design methodology"
+    ]
+  },
+  {
+    "title": "Junior AI Engineer (Python | APIs | Agentic AI)",
+    "company": "MetricsLand",
+    "url": "https://in.linkedin.com/jobs/view/junior-ai-engineer-python-apis-agentic-ai-at-metricsland-4442010801",
+    "score": 73,
+    "verdict": "Good Fit",
+    "reason": "The candidate’s technical profile aligns closely with the JD (Python, APIs, LLMs, agentic AI, cloud and container tools). However, they do not meet the location and language requirements, which lowers the overall suitability.",
+    "experience_required": "Fresher or up to 1 year of software development experience",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "REST APIs",
+      "LLMs",
+      "Agentic AI",
+      "LangChain",
+      "LangGraph",
+      "Docker",
+      "AWS EC2",
+      "Git/GitHub"
+    ],
+    "missing_skills": [
+      "Tamil language fluency",
+      "Residency in Tamil Nadu (must be based in Tamil Nadu)"
+    ]
+  },
+  {
+    "title": "AI/ML/Gen AI Engineer",
+    "company": "Ascendion",
+    "url": "https://in.linkedin.com/jobs/view/ai-ml-gen-ai-engineer-at-ascendion-4442298544",
+    "score": 72,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets core requirements in Python, generative AI, API work, and AI agent development, aligning well with the role. Missing Java, Node.js, and GraphQL prevents a stronger rating, but overall fit remains good.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "Generative AI",
+      "API Integration",
+      "AI Agent development"
+    ],
+    "missing_skills": [
+      "Java",
+      "Node.js",
+      "GraphQL"
+    ]
+  },
+  {
+    "title": "Associate Engineer",
+    "company": "Jobgenix",
+    "url": "https://in.linkedin.com/jobs/view/associate-engineer-at-jobgenix-4439641362",
+    "score": 72,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets the core technical requirements (Python, analytics, AI/ML) and has relevant project experience, but lacks GCP exposure, a hard requirement. Overall fit is solid for an entry-level associate role.",
+    "experience_required": "Not specified (no explicit years required)",
+    "matched_skills": [
+      "Python",
+      "Data Analytics",
+      "Data Science",
+      "AI/ML fundamentals"
+    ],
+    "missing_skills": [
+      "Google Cloud Platform (GCP)"
+    ]
+  },
+  {
+    "title": "IN_Specilaist 3_ GenAI/Python _AI in Delivery_Advisory_Gurgaon",
+    "company": "PwC India",
+    "url": "https://in.linkedin.com/jobs/view/in-specilaist-3-genai-python-ai-in-delivery-advisory-gurgaon-at-pwc-india-4440566143",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The candidate has strong Python and GenAI expertise aligning with the role's focus, but lacks SAP knowledge, a core requirement for a SAP consulting generalist.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "Generative AI",
+      "FastAPI",
+      "Docker",
+      "AWS"
+    ],
+    "missing_skills": [
+      "SAP"
+    ]
+  },
+  {
+    "title": "Solution Incubation Engineer - GET",
+    "company": "Orange Business",
+    "url": "https://in.linkedin.com/jobs/view/solution-incubation-engineer-get-at-orange-business-4442010432",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The JD seeks a fresh graduate with AI/ML and cloud experience, which aligns with the candidate's strong AI/ML, AWS, Python, and Docker background. Missing specific telecom/network skills (5G, secured connectivity) keep the fit from being a top match.",
+    "experience_required": "Recent engineering graduate / fresher",
+    "matched_skills": [
+      "AI/ML",
+      "Cloud (AWS)",
+      "Python",
+      "Docker"
+    ],
+    "missing_skills": [
+      "5G/MPN",
+      "Secured connectivity",
+      "Network engineering"
+    ]
+  },
+  {
+    "title": "Software Engineer I, ITC",
+    "company": "Nike",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-i-itc-at-nike-4441657729",
+    "score": 65,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets core requirements (Python, Docker, AWS) and has Streamlit experience, but lacks CI/CD, IaC/GitOps, and observability tooling, keeping the fit solid but not outstanding.",
+    "experience_required": "1+ years of professional software engineering experience",
+    "matched_skills": [
+      "Python",
+      "Docker",
+      "AWS",
+      "Streamlit",
+      "FastAPI"
+    ],
+    "missing_skills": [
+      "CI/CD pipelines",
+      "Infrastructure-as-Code / GitOps",
+      "OTEL or Splunk instrumentation"
+    ]
+  }
+]

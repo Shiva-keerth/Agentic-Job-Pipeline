@@ -1,0 +1,364 @@
+[
+  {
+    "title": "Python Developer",
+    "company": "SandCup Design",
+    "url": "https://in.linkedin.com/jobs/view/python-developer-at-sandcup-design-4454181223",
+    "score": 86,
+    "verdict": "Strong Match",
+    "reason": "The JD requires Python backend development, API design, and database work, all of which the candidate demonstrates with Python 3.10+, FastAPI, Docker, AWS, and relational/NoSQL databases. No hard requirements are missing, making this a strong alignment.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "SQLite",
+      "Supabase",
+      "API development",
+      "Backend systems"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "Software Engineer – Fresher",
+    "company": "TruScalar AI",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-%E2%80%93-fresher-at-truscalar-ai-4454193413",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The JD seeks a fresher with general software engineering, AI, cloud, and enterprise application experience. The candidate's extensive AI/LLM stack, backend (FastAPI), cloud (AWS), containerization (Docker), and database expertise align well, meeting all implied requirements.",
+    "experience_required": "0–1 years / Freshers",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "APIs",
+      "Databases (SQLite, Supabase, Neo4j)",
+      "AI/LLM development",
+      "Cloud technologies",
+      "Software development lifecycle"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "Software Engineer",
+    "company": "The Agentic Loop",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-at-the-agentic-loop-4454191166",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The candidate's Python backend expertise, FastAPI API work, Docker containerization, and AWS deployment directly align with the role's backend and AI integration needs. With no explicit experience years required, the profile fits strongly.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "API development",
+      "AI model integration",
+      "Backend development"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "WOW - Software Engineer",
+    "company": "NatWest Group",
+    "url": "https://in.linkedin.com/jobs/view/wow-software-engineer-at-natwest-group-4456335641",
+    "score": 82,
+    "verdict": "Strong Match",
+    "reason": "The JD does not state any years of experience and is for an associate-level role, which aligns with the candidate's 0-2 YOE target. The candidate possesses strong AI, prompt engineering, multi‑agent, and core software engineering skills that directly match the JD, missing only the unspecified 'MCP' requirement.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Prompt Engineering",
+      "AI agents",
+      "Multi-agent systems",
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS",
+      "Software engineering"
+    ],
+    "missing_skills": [
+      "MCP"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills are optional tools",
+    "is_external_apply": false
+  },
+  {
+    "title": "Python Developer",
+    "company": "NeerInfo Solutions",
+    "url": "https://in.linkedin.com/jobs/view/python-developer-at-neerinfo-solutions-4457090993",
+    "score": 78,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets all core requirements (Python, LangChain/Graph, Agentic AI, LLM) and has strong generative AI experience. Only Java and ADK are absent, which are not critical hard requirements, resulting in a good overall fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "LangChain",
+      "LangGraph",
+      "Agentic AI",
+      "LLM",
+      "AI/ML"
+    ],
+    "missing_skills": [
+      "Java",
+      "ADK"
+    ],
+    "apply_decision": "SKIP",
+    "apply_reason": "Core gaps: java",
+    "is_external_apply": false
+  },
+  {
+    "title": "Junior AI Engineer",
+    "company": "Infosys",
+    "url": "https://in.linkedin.com/jobs/view/junior-ai-engineer-at-infosys-4418200862",
+    "score": 73,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets all core requirements: strong Python background, FastAPI, RAG and vector‑DB experience, prompt engineering, and AWS deployment. The only gaps are specific ML libraries (scikit-learn, PyTorch, TensorFlow), which are not critical for the entry‑level role but keep the fit in the good range.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "RAG pipelines",
+      "Embeddings",
+      "Vector databases (ChromaDB, FAISS, Neo4j)",
+      "Prompt engineering",
+      "AWS",
+      "Git (implied)"
+    ],
+    "missing_skills": [
+      "scikit-learn",
+      "PyTorch",
+      "TensorFlow"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills are optional tools",
+    "is_external_apply": false
+  },
+  {
+    "title": "Software Engineer, YouTube",
+    "company": "Google",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-youtube-at-google-4455462002",
+    "score": 72,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets the 1‑year experience threshold and has strong Python and AI/ML skills relevant to YouTube's large‑scale systems. While lacking explicit experience in C/C++/Java and distributed systems, the overall skill overlap is solid for an entry‑level software engineer.",
+    "experience_required": "1 year of software development experience",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS",
+      "Streamlit",
+      "AI",
+      "NLP"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "Software Engineer I",
+    "company": "American Express",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-i-at-american-express-4455681314",
+    "score": 72,
+    "verdict": "Good Fit",
+    "reason": "The JD does not state a minimum experience requirement, so the candidate passes the mandatory check. Their Python, FastAPI, Docker, and AWS experience align well with the software development and deployment responsibilities. While they lack explicit enterprise architecture and typical enterprise language experience, the overall skill overlap is solid for an entry-level Software Engineer I.",
+    "experience_required": "Not specified (entry-level)",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "Software development",
+      "Code reviews",
+      "Automated testing"
+    ],
+    "missing_skills": [
+      "Enterprise Architecture concepts",
+      "Java/C# (common enterprise languages)"
+    ],
+    "apply_decision": "SKIP",
+    "apply_reason": "Core gaps: java, c#, erp",
+    "is_external_apply": false
+  },
+  {
+    "title": "Software Engineer - E-Commerce (Remote)",
+    "company": "Hire Feed",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hire-feed-4457069299",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets the core backend requirements with strong Python, cloud, containerization, and database experience. Lacking Go/Java and explicit microservices design reduces fit, placing the match in the Good Fit range.",
+    "experience_required": "Not specified (entry-level/New Grad)",
+    "matched_skills": [
+      "Python",
+      "Docker",
+      "AWS EC2",
+      "SQL/NoSQL databases (SQLite, Supabase, Neo4j)",
+      "Git (version control)",
+      "FastAPI (backend services)"
+    ],
+    "missing_skills": [
+      "Go",
+      "Java",
+      "Explicit microservices architecture experience"
+    ],
+    "apply_decision": "SKIP",
+    "apply_reason": "Core gaps: java",
+    "is_external_apply": false
+  },
+  {
+    "title": "Python Developer",
+    "company": "Umalis Software Solutions Pvt. Ltd.",
+    "url": "https://in.linkedin.com/jobs/view/python-developer-at-umalis-software-solutions-pvt-ltd-4454182982",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets all core Python and AI/ML requirements and has strong experience with FastAPI, Docker, AWS, LangChain, and vector DBs, aligning well with the role. The only gap is lack of TensorFlow/PyTorch/Scikit-learn, which keeps the fit solid but not perfect.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS",
+      "LangChain",
+      "Vector databases (ChromaDB, FAISS)",
+      "SQL (SQLite, Supabase)",
+      "REST API development",
+      "Generative AI / LLMs"
+    ],
+    "missing_skills": [
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-learn"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills are optional tools",
+    "is_external_apply": false
+  },
+  {
+    "title": "AI Engineer",
+    "company": "Tech ECS Limited",
+    "url": "https://in.linkedin.com/jobs/view/ai-engineer-at-tech-ecs-limited-4453451791",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets all core AI/ML and backend requirements, but lacks the required front‑end JavaScript stack and MongoDB experience. Overlap is strong enough for a good fit, though not a perfect match.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "Generative AI",
+      "LLMs",
+      "RAG",
+      "FastAPI (REST APIs)",
+      "Docker",
+      "AWS EC2",
+      "Vector databases (ChromaDB, FAISS)",
+      "Prompt Engineering",
+      "Retrieval Augmented Generation"
+    ],
+    "missing_skills": [
+      "React",
+      "Node.js / NestJS / Express",
+      "MongoDB"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Tool gaps only (learnable): node.js, react",
+    "is_external_apply": false
+  },
+  {
+    "title": "Intern Full Stack (Agentic AI Applications) Development",
+    "company": "Tecnod8.AI",
+    "url": "https://in.linkedin.com/jobs/view/intern-full-stack-agentic-ai-applications-development-at-tecnod8-ai-4455610359",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The candidate strongly matches the backend and AI stack required for the role, covering FastAPI, Docker, RAG, and agentic AI. The main gaps are frontend React/Next.js and the preferred relational/document DB, but these are not disqualifying for an intern position.",
+    "experience_required": "Not specified (internship)",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "RAG pipelines",
+      "AI agents",
+      "Prompt engineering",
+      "Vector databases (ChromaDB, FAISS)",
+      "LLM APIs (Groq)",
+      "Git/GitHub"
+    ],
+    "missing_skills": [
+      "React.js / Next.js (frontend)",
+      "PostgreSQL or MongoDB (database)",
+      "JavaScript/TypeScript"
+    ],
+    "apply_decision": "SKIP",
+    "apply_reason": "Core gaps: java",
+    "is_external_apply": false
+  },
+  {
+    "title": "Software Engineer I",
+    "company": "Zebra Technologies",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-i-at-zebra-technologies-4454645177",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The JD does not specify any experience years, so the candidate passes the mandatory check. Their Python, FastAPI, Docker, and AWS experience align with the generic software engineering expectations, though the role lacks specific AI/LLM requirements. Overall a good fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "Software Engineer I",
+    "company": "Mastercard",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-i-at-mastercard-4454132891",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The JD does not state any experience years and seeks a developer comfortable with cloud‑native, API and containerized services. The candidate’s Python, FastAPI, Docker, and AWS experience aligns well, though the role is more general than the candidate’s AI‑focused portfolio.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS",
+      "Cloud Native"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "Application Software Engineer 2",
+    "company": "Oracle",
+    "url": "https://in.linkedin.com/jobs/view/application-software-engineer-2-at-oracle-4445032424",
+    "score": 65,
+    "verdict": "Good Fit",
+    "reason": "The JD does not state a minimum experience, and the candidate's Python, FastAPI, Docker, and cloud experience align with the role's API and integration focus. Lack of explicit Java/Oracle stack reduces fit but overall overlap is solid for an entry-level application engineer.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "API development",
+      "SQL"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  }
+]

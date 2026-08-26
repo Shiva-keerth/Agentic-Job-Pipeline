@@ -1,0 +1,192 @@
+[
+  {
+    "title": "AI Engineer",
+    "company": "InfoCepts",
+    "url": "https://in.linkedin.com/jobs/view/ai-engineer-at-infocepts-4453069800",
+    "score": 88,
+    "verdict": "Strong Match",
+    "reason": "The JD does not state any minimum years of experience, and the candidate's expertise in LLMs, RAG, prompt engineering, and deployment technologies aligns closely with the role's core responsibilities, making this a strong fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS",
+      "LLMs (Llama-3.3-70B)",
+      "Prompt Engineering",
+      "Retrieval Augmented Generation (RAG)",
+      "RAG pipelines",
+      "LangChain",
+      "LangGraph",
+      "Multi‑agent systems",
+      "Vector databases (ChromaDB, FAISS)"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!"
+  },
+  {
+    "title": "Founding AI Engineer",
+    "company": "Homeie",
+    "url": "https://in.linkedin.com/jobs/view/founding-ai-engineer-at-homeie-4451659228",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The candidate’s expertise in agentic AI, LangChain/Graph, voice STT, and cloud deployment aligns tightly with the role’s need to build an AI‑driven, voice‑first orchestration layer. Only niche integrations (WhatsApp, call handling) and specific rental‑domain knowledge are absent, but overall fit is excellent.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "LangChain",
+      "LangGraph",
+      "ReAct agents",
+      "Groq Whisper (speech‑to‑text)",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "Groq API",
+      "RAG pipelines",
+      "Multi‑agent systems",
+      "Python"
+    ],
+    "missing_skills": [
+      "WhatsApp API / telephony integration",
+      "Domain expertise in real‑estate/rental workflows",
+      "Voice‑first UI design"
+    ],
+    "apply_decision": "SKIP",
+    "apply_reason": "Core skill gaps: sap"
+  },
+  {
+    "title": "Python Developer",
+    "company": "Headstart",
+    "url": "https://in.linkedin.com/jobs/view/python-developer-at-headstart-4452724350",
+    "score": 82,
+    "verdict": "Strong Match",
+    "reason": "The candidate exceeds the JD's core requirements with strong Python backend expertise, API development, and cloud/Docker deployment. While lacking specific web framework (Django/Flask) and CI/CD experience, the overall skill overlap is high, making them a strong fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "SQLite",
+      "Supabase",
+      "API development",
+      "Object-oriented programming",
+      "Database integration"
+    ],
+    "missing_skills": [
+      "Django/Flask",
+      "CI/CD pipelines",
+      "Front-end framework experience"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Only tool gaps (learnable): ci/cd"
+  },
+  {
+    "title": "Forward Deployed Engineer Intern",
+    "company": "Jansoft Global",
+    "url": "https://in.linkedin.com/jobs/view/forward-deployed-engineer-intern-at-jansoft-global-4453301317",
+    "score": 82,
+    "verdict": "Strong Match",
+    "reason": "The candidate's strong background in Python, LangChain, RAG pipelines, FastAPI, Docker, and cloud (AWS) aligns closely with the internship's core requirements. Only optional front‑end and low‑code automation tools are missing, which does not hinder suitability.",
+    "experience_required": "Not specified (internship, no prior experience required)",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS (EC2)",
+      "LangChain",
+      "RAG / Retrieval Augmented Generation",
+      "APIs (Groq API)",
+      "Git/GitHub (project repos)",
+      "SQL/SQLite",
+      "Vector databases (ChromaDB, FAISS)"
+    ],
+    "missing_skills": [
+      "React / Next.js",
+      "Flask",
+      "n8n / Make / Zapier"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Only tool gaps (learnable): react, n8n"
+  },
+  {
+    "title": "AI/ML Engineer",
+    "company": "Cyfuture",
+    "url": "https://in.linkedin.com/jobs/view/ai-ml-engineer-at-cyfuture-4450232270",
+    "score": 75,
+    "verdict": "Good Fit",
+    "reason": "The candidate matches most core requirements—Python, LangChain, multi‑agent workflows, and STT integration—but lacks the specified deep‑learning frameworks (TensorFlow/PyTorch) and explicit TTS experience, resulting in a solid but not perfect fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "LangChain",
+      "Agentic AI (LangGraph/ReAct)",
+      "Prompt Engineering",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "STT (Groq Whisper)"
+    ],
+    "missing_skills": [
+      "TensorFlow",
+      "PyTorch",
+      "Text-to-Speech (TTS) integration"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills appear to be optional tools, not core blockers"
+  },
+  {
+    "title": "Software Engineer- GenAI",
+    "company": "Win Global PR",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-genai-at-win-global-pr-4450187002",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The JD specifies an entry-level Software Engineer role in Generative AI with no explicit experience or skill requirements, so the candidate's background aligns well despite the lack of listed tech stack. The candidate's GenAI and Python expertise make them a suitable applicant.",
+    "experience_required": "Entry level (no specific years mentioned)",
+    "matched_skills": [],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!"
+  },
+  {
+    "title": "AI Product Engineer",
+    "company": "Helium",
+    "url": "https://in.linkedin.com/jobs/view/ai-product-engineer-at-helium-4451635001",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The JD does not state any years of experience or seniority, and the candidate's AI engineering stack (Python, FastAPI, Docker, AWS, LLMs) aligns with the implied technical needs. Lack of explicit eCommerce domain experience keeps the fit from being stronger, resulting in a good but not strong match.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "AI/ML",
+      "LLM integration"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!"
+  },
+  {
+    "title": "Software Engineer I",
+    "company": "Cepheid",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-i-at-cepheid-4450134738",
+    "score": 65,
+    "verdict": "Good Fit",
+    "reason": "Candidate has strong cloud and containerization experience relevant to DevOps, but lacks explicit CI/CD pipeline and monitoring tool expertise required for the role.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Docker",
+      "AWS EC2",
+      "Python",
+      "FastAPI"
+    ],
+    "missing_skills": [
+      "CI/CD pipeline tools (e.g., Jenkins, GitHub Actions)",
+      "Monitoring tools (e.g., Prometheus, Grafana)"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Only tool gaps (learnable): grafana, ci/cd, jenkins"
+  }
+]

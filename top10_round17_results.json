@@ -1,0 +1,118 @@
+[
+  {
+    "title": "AI & Agentic Systems Engineer — Multiple Capability Levels",
+    "company": "UNIS",
+    "url": "https://in.linkedin.com/jobs/view/ai-agentic-systems-engineer-%E2%80%94-multiple-capability-levels-at-unis-4456787335",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The candidate's experience with Python‑based AI agents, RAG pipelines, deployment (Docker, AWS) and LLM integration aligns closely with the JD. The only notable gaps are TypeScript and explicit monitoring/security expertise, which are not hard requirements, resulting in a strong overall fit.",
+    "experience_required": "Not specified (no explicit years mentioned)",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "LLM applications (Llama-3.3-70B, Groq API)",
+      "Retrieval Augmented Generation",
+      "Vector databases (ChromaDB, FAISS)",
+      "Agentic AI / Multi‑agent systems (LangGraph, ReAct agents)",
+      "API development & integration",
+      "Deployment & orchestration"
+    ],
+    "missing_skills": [
+      "TypeScript",
+      "Explicit monitoring/observability tools",
+      "Security & cost‑optimization best practices"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Tool gaps only (learnable): typescript",
+    "is_external_apply": false
+  },
+  {
+    "title": "Agentic AI Engineer",
+    "company": "UNIS",
+    "url": "https://in.linkedin.com/jobs/view/agentic-ai-engineer-at-unis-4457037982",
+    "score": 78,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets all core technical requirements (Python, APIs, cloud, data stores, tool calling, retrieval, state, orchestration) and has relevant project experience. Lacks explicit experience with production observability and incident‑response practices, keeping the fit strong but not top‑tier.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "APIs",
+      "Backend services",
+      "Data stores (SQLite, Supabase, Neo4j)",
+      "Tool calling (LangChain)",
+      "Retrieval (RAG pipelines)",
+      "State management (LangGraph)",
+      "Orchestration (multi‑agent systems)",
+      "Evaluation (agent metrics)"
+    ],
+    "missing_skills": [
+      "Production observability tooling",
+      "Incident response / hallucination containment"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills are optional tools",
+    "is_external_apply": false
+  },
+  {
+    "title": "Applied AI Engineer",
+    "company": "UNIS",
+    "url": "https://in.linkedin.com/jobs/view/applied-ai-engineer-at-unis-4456787336",
+    "score": 72,
+    "verdict": "Good Fit",
+    "reason": "The candidate aligns well with the core technical stack (Python, APIs, cloud, retrieval, embeddings, RAG) required for production AI services. However, explicit experience in testing and monitoring/alerting—key hard requirements—is absent, keeping the fit solid but not outstanding.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "Retrieval Augmented Generation",
+      "Embeddings",
+      "Vector databases (ChromaDB, FAISS)",
+      "Prompt Engineering",
+      "RAG pipelines"
+    ],
+    "missing_skills": [
+      "Testing (unit/integration)",
+      "Logging/Tracing/Metrics/Alerting instrumentation",
+      "Formal evaluation frameworks for quality, safety, latency, cost"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills are optional tools",
+    "is_external_apply": false
+  },
+  {
+    "title": "Software Engineer (25 Position)",
+    "company": "Seceon Inc.",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-25-position-at-seceon-inc-4455631031",
+    "score": 62,
+    "verdict": "Good Fit",
+    "reason": "The JD does not state a minimum experience requirement, allowing the candidate to proceed. The candidate's cloud, containerization, Python, and AI expertise align with the platform's AI and scalable architecture needs, but lacks direct cybersecurity domain knowledge and specific security tool experience, resulting in a moderate fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Docker",
+      "AWS EC2",
+      "Python",
+      "FastAPI",
+      "AI/LLM"
+    ],
+    "missing_skills": [
+      "SIEM",
+      "SOAR",
+      "UEBA",
+      "EDR",
+      "NDR",
+      "Threat Intelligence",
+      "Vulnerability Management",
+      "Compliance frameworks (NIST, ISO, HIPAA, PCI-DSS)"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills are optional tools",
+    "is_external_apply": false
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "title": "Python Developer",
+    "company": "Moleculyst",
+    "url": "https://in.linkedin.com/jobs/view/python-developer-at-moleculyst-4453985687",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The candidate’s strong Python, LLM inference, FastAPI, Docker, and AWS experience aligns well with the role’s core responsibilities. While lacking direct hallucination‑detection experience, the overall skill overlap is high, making this a strong match.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "LLM inference (Llama‑3.3‑70B, Groq API)",
+      "Data pipelines (RAG pipelines, Streamlit, APScheduler)",
+      "Vector databases (FAISS, ChromaDB)"
+    ],
+    "missing_skills": [
+      "Hallucination detection domain expertise",
+      "Model monitoring/observability tooling",
+      "Specific experience with open‑weight LLM infrastructure for reliability testing"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills appear to be optional tools, not core blockers"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "RiVirtual Inc",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-at-rivirtual-inc-4452218512",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The JD does not specify years of experience or seniority, and the candidate's backend and API expertise aligns well with the role's requirements. Strong overlap in relevant technologies and software engineering fundamentals warrants a high match score.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "API development",
+      "Object-Oriented Programming",
+      "Backend development",
+      "Software engineering principles"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!"
+  },
+  {
+    "title": "Junior AI Engineer - Backend Python",
+    "company": "JuiceLabs AI",
+    "url": "https://in.linkedin.com/jobs/view/junior-ai-engineer-backend-python-at-juicelabs-ai-4454204205",
+    "score": 84,
+    "verdict": "Strong Match",
+    "reason": "The JD seeks a junior backend Python engineer; the candidate has solid Python, FastAPI, Docker, and AWS experience plus relevant AI project work. No hard requirements are missing, making them a strong fit for the role.",
+    "experience_required": "Not specified (implied entry-level/junior)",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "Backend system design",
+      "AI/ML project experience"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "AI Vidya",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-at-ai-vidya-4452200492",
+    "score": 78,
+    "verdict": "Good Fit",
+    "reason": "The candidate possesses strong backend development skills, cloud deployment experience, and OOP proficiency aligning with the JD. While their focus is generative AI, the core technical requirements are met, making them a good fit for the role.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "API development",
+      "Object-Oriented Programming",
+      "Clean code",
+      "Testing"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "Solventum",
+    "url": "https://in.linkedin.com/jobs/view/machine-learning-engineer-at-solventum-4445360131",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The JD does not state any experience years or seniority, so the candidate passes the mandatory check. While the JD lists no concrete technical requirements, the role of Machine Learning Engineer aligns with the candidate's ML background, making the candidate a good fit for an entry-level position.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Machine Learning"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!"
+  },
+  {
+    "title": "AI Software Engineer",
+    "company": "WorkBudi",
+    "url": "https://in.linkedin.com/jobs/view/ai-software-engineer-at-workbudi-4451735176",
+    "score": 65,
+    "verdict": "Good Fit",
+    "reason": "The candidate excels in AI/LLM engineering and has relevant backend and Supabase experience, aligning well with core AI requirements. However, they lack React and TypeScript front‑end skills, which are hard requirements for the role, lowering the overall fit.",
+    "experience_required": "Not specified (entry-level)",
+    "matched_skills": [
+      "Supabase",
+      "APIs (FastAPI)",
+      "LLMs",
+      "AI Agents"
+    ],
+    "missing_skills": [
+      "React",
+      "TypeScript",
+      "Security (explicit knowledge)"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Only tool gaps (learnable): react, typescript"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Appinventiv",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-at-appinventiv-4451737332",
+    "score": 65,
+    "verdict": "Good Fit",
+    "reason": "The JD has no experience-year requirement, so the candidate passes the mandatory check. Their Python programming, relational database experience, and web‑app development align with the core needs, though the role is broader than their AI‑focused background. Overall a good fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "SQL/Relational databases (SQLite)",
+      "Web development (FastAPI, Streamlit)"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!"
+  }
+]

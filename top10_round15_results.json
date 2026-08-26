@@ -1,0 +1,292 @@
+[
+  {
+    "title": "SB-1486-AI Engineer Intern",
+    "company": "Softobiz",
+    "url": "https://in.linkedin.com/jobs/view/sb-1486-ai-engineer-intern-at-softobiz-4455976305",
+    "score": 88,
+    "verdict": "Strong Match",
+    "reason": "The candidate possesses all core technologies highlighted in the JD (LangGraph, Python, Pydantic) and has extensive experience building multi‑agent and RAG pipelines. No hard requirements are missing, making this a strong alignment for the internship.",
+    "experience_required": "Not specified (entry-level / recent graduate)",
+    "matched_skills": [
+      "LangGraph",
+      "Python",
+      "Pydantic",
+      "Multi-agent systems",
+      "Agentic AI",
+      "Retrieval Augmented Generation",
+      "Context management concepts"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "Intern - AI Engineering",
+    "company": "Nuvama Group",
+    "url": "https://in.linkedin.com/jobs/view/intern-ai-engineering-at-nuvama-group-4452595267",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The JD seeks a fresher with solid Python, API, and cloud deployment skills; the candidate exceeds these expectations with extensive AI tooling, LangChain, and production experience, making them an excellent fit.",
+    "experience_required": "Fresher or early‑career (0‑1 years)",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS",
+      "Prompt Engineering",
+      "Retrieval Augmented Generation",
+      "LangChain",
+      "Agentic AI",
+      "Vector databases"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "Backend Engineer (Python, learn Elixir on the job) for Full-time Remote Job at Product Startup",
+    "company": "Clikkin",
+    "url": "https://in.linkedin.com/jobs/view/backend-engineer-python-learn-elixir-on-the-job-for-full-time-remote-job-at-product-startup-at-clikkin-4452889527",
+    "score": 81,
+    "verdict": "Strong Match",
+    "reason": "The candidate has solid Python backend experience with FastAPI, Docker, and AWS, aligning well with the role. The only gap is Elixir, which the JD expects the candidate to learn on the job, making the overall fit strong.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2"
+    ],
+    "missing_skills": [
+      "Elixir"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills appear to be optional tools",
+    "is_external_apply": false
+  },
+  {
+    "title": "Fullstack Gen AI - Engineer",
+    "company": "Iris Software Inc.",
+    "url": "https://in.linkedin.com/jobs/view/fullstack-gen-ai-engineer-at-iris-software-inc-4454484817",
+    "score": 75,
+    "verdict": "Good Fit",
+    "reason": "The JD does not state a minimum experience requirement, allowing a fresh graduate. The candidate's strong background in generative AI, LLMs, Python, Docker, AWS, and FastAPI aligns well with the role's full‑stack and AI focus, though explicit front‑end expertise is not highlighted.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "Docker",
+      "AWS",
+      "FastAPI",
+      "Generative AI",
+      "LLM",
+      "Data & Analytics"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "Forward Deployed Engineer (AI Integration + Design) - Gen AI & Voice AI - Delhi",
+    "company": "Blue Machines AI",
+    "url": "https://in.linkedin.com/jobs/view/forward-deployed-engineer-ai-integration-%2B-design-gen-ai-voice-ai-delhi-at-blue-machines-ai-4455593872",
+    "score": 75,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets all core requirements (Python, cloud, Docker, API work, LangChain) and exceeds with additional AI expertise. Gaps are limited to GCP-specific experience, OAuth2/JWT knowledge, and CI/CD pipelines, keeping the overall fit strong.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI (REST APIs)",
+      "Docker",
+      "AWS (cloud platform)",
+      "LangChain",
+      "API integration"
+    ],
+    "missing_skills": [
+      "OAuth2/JWT authentication",
+      "Google Cloud Platform (GCP) experience",
+      "CI/CD pipeline knowledge"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Only tool gaps (learnable): ci/cd",
+    "is_external_apply": false
+  },
+  {
+    "title": "Forward Deployed Engineer",
+    "company": "Nexus Point",
+    "url": "https://in.linkedin.com/jobs/view/forward-deployed-engineer-at-nexus-point-4455972201",
+    "score": 75,
+    "verdict": "Good Fit",
+    "reason": "The candidate aligns well with core requirements like LangChain, AWS, API development, Docker deployment, and prompt engineering. Missing explicit experience with WebSockets, webhooks, and observability tools keeps the fit from being top-tier but remains strong for a forward deployed engineer role.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "LangChain",
+      "AWS",
+      "FastAPI",
+      "Docker",
+      "Prompt Engineering",
+      "Python",
+      "LLM integration"
+    ],
+    "missing_skills": [
+      "WebSockets",
+      "Webhooks",
+      "Observability (logs/metrics)"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills appear to be optional tools",
+    "is_external_apply": false
+  },
+  {
+    "title": "AI Engineer",
+    "company": "NTT DATA North America",
+    "url": "https://in.linkedin.com/jobs/view/ai-engineer-at-ntt-data-north-america-4445928663",
+    "score": 72,
+    "verdict": "Good Fit",
+    "reason": "The candidate satisfies key JD requirements like Python, prompt engineering, agentic systems, Docker, and cloud/API experience, but lacks Azure OpenAI expertise, MCP knowledge, and Kubernetes, resulting in a solid but not perfect match.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "Prompt Engineering",
+      "Agentic AI / Multi-agent systems",
+      "Docker",
+      "FastAPI (REST APIs)",
+      "AWS (cloud integration)",
+      "LLM experience"
+    ],
+    "missing_skills": [
+      "Azure OpenAI SDK/APIs",
+      "Model Context Protocol (MCP)",
+      "Kubernetes"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Only tool gaps (learnable): kubernetes",
+    "is_external_apply": false
+  },
+  {
+    "title": "Full Stack & AI Engineering Intern",
+    "company": "Nuvama Group",
+    "url": "https://in.linkedin.com/jobs/view/full-stack-ai-engineering-intern-at-nuvama-group-4452236262",
+    "score": 68,
+    "verdict": "Good Fit",
+    "reason": "The candidate matches the core backend and AI requirements (FastAPI, RAG, LLM work, vector search, deployment) but lacks the front‑end stack (React, TypeScript) and WebSocket experience essential for the full‑stack role, resulting in a solid but not perfect fit.",
+    "experience_required": "Not specified (internship, no years of experience required)",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "RAG pipelines",
+      "Retrieval Augmented Generation",
+      "LLM fine-tuning",
+      "Llama-3 (Llama-3.3-70B)",
+      "Vector databases (ChromaDB, FAISS)",
+      "Docker",
+      "AWS EC2",
+      "Multi‑agent systems"
+    ],
+    "missing_skills": [
+      "React",
+      "TypeScript",
+      "WebSocket APIs"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Only tool gaps (learnable): react, typescript",
+    "is_external_apply": false
+  },
+  {
+    "title": "Backend Engineer ( India )",
+    "company": "Coram AI",
+    "url": "https://in.linkedin.com/jobs/view/backend-engineer-india-at-coram-ai-4455772850",
+    "score": 68,
+    "verdict": "Good Fit",
+    "reason": "Candidate meets core requirements (Python, API and backend experience, AWS) but lacks several optional but valuable skills like Go, Pulumi, Grafana, and Auth0, resulting in a solid but not outstanding fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS",
+      "API design",
+      "Database development",
+      "Data pipelines"
+    ],
+    "missing_skills": [
+      "Go",
+      "Pulumi (IaC)",
+      "Grafana (monitoring)",
+      "Auth0 (authentication)"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Only tool gaps (learnable): grafana",
+    "is_external_apply": false
+  },
+  {
+    "title": "AI Software Engineer",
+    "company": "SoftwareOne",
+    "url": "https://in.linkedin.com/jobs/view/ai-software-engineer-at-softwareone-4454484457",
+    "score": 68,
+    "verdict": "Good Fit",
+    "reason": "The candidate possesses strong Python, API, cloud (AWS), and containerization experience, aligning well with production AI development. However, explicit MLOps practices like CI/CD, monitoring, and batch processing are not demonstrated, limiting the fit to a good but not strong match.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "LLM inference (Llama-3.3-70B)",
+      "API development",
+      "AI/ML pipeline development"
+    ],
+    "missing_skills": [
+      "CI/CD pipeline implementation",
+      "Monitoring, logging, and alerting",
+      "Batch processing / large‑scale data pipelines"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Only tool gaps (learnable): ci/cd",
+    "is_external_apply": false
+  },
+  {
+    "title": "Software Engineer I",
+    "company": "Kaseya",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-i-at-kaseya-4454929863",
+    "score": 65,
+    "verdict": "Good Fit",
+    "reason": "The JD does not state a minimum years of experience, so the candidate passes the mandatory check. Their Python, FastAPI, Docker, and AWS experience align with building cloud‑based software, though the role focuses on IT operations rather than generative AI, resulting in a solid but not perfect fit.",
+    "experience_required": "Not specified (implied entry-level/early-career)",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "AI Developer",
+    "company": "Comviva",
+    "url": "https://in.linkedin.com/jobs/view/ai-developer-at-comviva-4455718071",
+    "score": 65,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets core requirements like Python, API development, Docker, and cloud deployment, but lacks mandatory experience with TensorFlow/PyTorch and MCP. Overall skill overlap is solid enough for a good fit, though not a perfect match.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "Data pipeline development"
+    ],
+    "missing_skills": [
+      "TensorFlow or PyTorch",
+      "Model Context Protocol (MCP)"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills appear to be optional tools",
+    "is_external_apply": false
+  }
+]

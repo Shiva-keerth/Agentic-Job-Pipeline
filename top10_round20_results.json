@@ -1,0 +1,383 @@
+[
+  {
+    "title": "Python & GenAI Developer",
+    "company": "Learn With Machine",
+    "url": "https://in.linkedin.com/jobs/view/python-genai-developer-at-learn-with-machine-4455868227",
+    "score": 90,
+    "verdict": "Strong Match",
+    "reason": "The candidate meets every core requirement—Python, FastAPI, LangChain/LangGraph, RAG and vector‑DB experience, and SQL/NoSQL knowledge—while also bringing advanced LLM and agentic AI expertise. With 0‑1 years of experience sought, the profile is an excellent fit for the entry‑level role.",
+    "experience_required": "0–1 Years of experience",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "LangChain",
+      "LangGraph",
+      "RAG pipelines",
+      "Vector databases (ChromaDB, FAISS)",
+      "SQL/NoSQL (SQLite, Supabase/PostgreSQL, Neo4j)",
+      "LLM integration (Llama‑3.3, Groq API)",
+      "Prompt engineering"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "AI / Software Engineering Intern",
+    "company": "aiqon",
+    "url": "https://in.linkedin.com/jobs/view/ai-software-engineering-intern-at-aiqon-4456501719",
+    "score": 88,
+    "verdict": "Strong Match",
+    "reason": "The candidate's AI/LLM, retrieval pipelines, and backend engineering experience align closely with the internship's focus on production software and AI-powered features. Minor gaps in frontend UI and explicit testing frameworks do not outweigh the strong overall fit.",
+    "experience_required": "Not specified (internship, entry-level)",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "LLM integration (LangChain, Llama-3)",
+      "Retrieval Augmented Generation",
+      "Vector databases (ChromaDB, FAISS)",
+      "API development",
+      "Production deployment"
+    ],
+    "missing_skills": [
+      "Frontend UI frameworks (e.g., React/JS)",
+      "Automated testing frameworks (e.g., pytest, unit testing)"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Tool gaps only (learnable): react",
+    "is_external_apply": false
+  },
+  {
+    "title": "Applied AI Engineer",
+    "company": "OpenAI",
+    "url": "https://in.linkedin.com/jobs/view/applied-ai-engineer-at-openai-4447690479",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The JD does not require a minimum of 2 years experience, so the candidate passes the mandatory check. Their hands‑on work with LLMs, RAG, multi‑agent architectures, Docker, AWS, and production deployments aligns closely with the role’s focus on building and scaling AI systems for enterprises. While they lack explicit MLOps/Kubernetes and formal security governance experience, the overall skill overlap is strong, warranting a high match score.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "LLM inference (Llama-3.3-70B, Groq API)",
+      "Retrieval Augmented Generation (RAG)",
+      "Multi‑agent systems",
+      "Production deployment",
+      "Prompt engineering",
+      "Knowledge graphs / Neo4j"
+    ],
+    "missing_skills": [
+      "MLOps / CI‑CD pipelines",
+      "Kubernetes or container orchestration",
+      "Formal security/governance frameworks"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Tool gaps only (learnable): kubernetes",
+    "is_external_apply": false
+  },
+  {
+    "title": "Python/Python GenAI",
+    "company": "Infosys",
+    "url": "https://in.linkedin.com/jobs/view/python-python-genai-at-infosys-4439100513",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The JD requires Python and Generative AI expertise, both of which the candidate possesses along with extensive related tooling. No experience years are stipulated, and the candidate's skill set exceeds the minimal requirements, making this a strong fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "Generative AI"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "AI / Full-Stack Engineer – LLM & Agentic Applications",
+    "company": "The EleFit Store",
+    "url": "https://in.linkedin.com/jobs/view/ai-full-stack-engineer-%E2%80%93-llm-agentic-applications-at-the-elefit-store-4457146818",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The JD seeks an engineer comfortable with LLM APIs, production deployment, and full‑stack development. The candidate’s experience with LangChain, LangGraph, FastAPI, Docker, AWS, and Groq LLM APIs aligns closely, while the only notable gap is a dedicated modern frontend framework, which is not a hard requirement.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "LangChain",
+      "LangGraph",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "Groq API",
+      "LLM integration (Llama-3.3-70B)",
+      "Prompt Engineering",
+      "Retrieval Augmented Generation",
+      "Agentic AI / Multi‑agent systems",
+      "Python 3.10+"
+    ],
+    "missing_skills": [
+      "React or other modern frontend framework"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Tool gaps only (learnable): react",
+    "is_external_apply": false
+  },
+  {
+    "title": "AI Agent Engineer",
+    "company": "Manifest Global",
+    "url": "https://in.linkedin.com/jobs/view/ai-agent-engineer-at-manifest-global-4457159672",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The JD does not state a minimum experience threshold, and the candidate's extensive work with AI agents, LLMs, RAG pipelines, and production deployment aligns closely with the role's focus on building robust AI agents.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "LangChain",
+      "LangGraph",
+      "ReAct agents",
+      "Multi-agent systems",
+      "FastAPI",
+      "Docker",
+      "AWS",
+      "LLM",
+      "Retrieval Augmented Generation",
+      "Vector databases"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "Applied AI Engineer",
+    "company": "BJAK",
+    "url": "https://in.linkedin.com/jobs/view/applied-ai-engineer-at-bjak-4456871817",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The JD seeks applied AI engineers to build AI agents, workflows, and LLM‑based solutions, which aligns closely with the candidate's expertise in LangChain, LangGraph, RAG, FastAPI, Docker, and cloud deployment. No experience years are required, making the candidate an excellent fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "LLMs",
+      "AI agents",
+      "Retrieval Augmented Generation",
+      "LangChain",
+      "LangGraph",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "Python",
+      "Prompt Engineering"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "AI Engineer",
+    "company": "Gunpowder Innovations",
+    "url": "https://in.linkedin.com/jobs/view/ai-engineer-at-gunpowder-innovations-4457107007",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The candidate's experience with fine‑tuning, agentic multi‑agent frameworks, retrieval‑augmented generation, and production deployment aligns closely with the JD. Only a few advanced aspects like quantisation, self‑hosting at scale, and dedicated monitoring are not explicitly listed, resulting in a strong overall fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "LLM fine-tuning",
+      "open-source LLM deployment",
+      "agentic systems",
+      "LangGraph ReAct agents",
+      "LangChain",
+      "RAG pipelines",
+      "vector stores (ChromaDB, FAISS)",
+      "Docker",
+      "AWS EC2",
+      "FastAPI",
+      "Python",
+      "retrieval pipelines"
+    ],
+    "missing_skills": [
+      "model quantisation",
+      "self‑hosting large open‑source LLMs",
+      "formal monitoring/evaluation framework"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills are optional tools",
+    "is_external_apply": false
+  },
+  {
+    "title": "AI Intern",
+    "company": "Revvity",
+    "url": "https://in.linkedin.com/jobs/view/ai-intern-at-revvity-4458530646",
+    "score": 78,
+    "verdict": "Good Fit",
+    "reason": "The JD does not specify any years of experience or hard technical requirements, and the candidate's AI and Python expertise aligns well with the intern responsibilities. While the candidate is slightly more experienced than a typical intern, the skill overlap is strong enough for a good fit.",
+    "experience_required": "Not specified (entry-level intern)",
+    "matched_skills": [
+      "Python",
+      "Prompt Engineering",
+      "FastAPI",
+      "AI prototyping",
+      "Collaboration"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "Full-Stack AI Product Engineering Intern @ FoodNEST(S) Technologies",
+    "company": "FoodNEST(S) Technologies Private Limited",
+    "url": "https://in.linkedin.com/jobs/view/full-stack-ai-product-engineering-intern-%40-foodnest-s-technologies-at-foodnest-s-technologies-private-limited-4458188392",
+    "score": 78,
+    "verdict": "Good Fit",
+    "reason": "The JD does not specify any years of experience, so the candidate passes the mandatory check. Their AI and full‑stack skill set aligns well with the role's focus on building real AI products, though the JD lacks concrete tech requirements, resulting in a solid but not perfect match.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "Streamlit",
+      "AI/ML",
+      "LLM integration",
+      "Full‑stack development"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "Backend Developer - Python/Django/GenAI",
+    "company": "Kaitongo",
+    "url": "https://in.linkedin.com/jobs/view/backend-developer-python-django-genai-at-kaitongo-4456886459",
+    "score": 72,
+    "verdict": "Good Fit",
+    "reason": "The candidate strongly matches the core requirements with Python, FastAPI, and extensive agentic AI experience. Missing Django and the specific OpenAI Agents SDK, but overall skill overlap is solid for an entry-level backend role.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Agentic AI",
+      "Multi-agent systems",
+      "Docker",
+      "AWS EC2"
+    ],
+    "missing_skills": [
+      "Django",
+      "OpenAI Agents SDK"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills are optional tools",
+    "is_external_apply": false
+  },
+  {
+    "title": "AI/ML Fullstack Engineer (GenAI, Python, React)",
+    "company": "CG-VAK Software & Exports Ltd.",
+    "url": "https://in.linkedin.com/jobs/view/ai-ml-fullstack-engineer-genai-python-react-at-cg-vak-software-exports-ltd-4457145665",
+    "score": 72,
+    "verdict": "Good Fit",
+    "reason": "The candidate strongly matches the AI/ML, LLM, Python, AWS, and backend development requirements, but lacks React front‑end experience, a core hard requirement for the role.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "AWS",
+      "LLM development (Llama, Groq API)",
+      "Prompt Engineering",
+      "FastAPI",
+      "Docker",
+      "AI/ML pipelines",
+      "Full‑stack backend development"
+    ],
+    "missing_skills": [
+      "React.js"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Tool gaps only (learnable): react",
+    "is_external_apply": false
+  },
+  {
+    "title": "Data Automation & AI Engineer",
+    "company": "Barclays",
+    "url": "https://in.linkedin.com/jobs/view/data-automation-ai-engineer-at-barclays-4456527341",
+    "score": 72,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets most core requirements (Python, LangChain, agentic workflows, API development, AWS, Docker) but lacks explicit experience with common ML libraries, Git, and CI/CD pipelines. Overlap is strong enough for a good fit, though the missing skills keep the score from reaching a strong match.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "LangChain",
+      "Agentic AI / Multi-agent systems (LangGraph ReAct agents)",
+      "Prompt Engineering",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "RAG pipelines",
+      "Vector databases (ChromaDB, FAISS)",
+      "SQL (SQLite)"
+    ],
+    "missing_skills": [
+      "ML libraries (scikit-learn / TensorFlow / PyTorch)",
+      "Git version control",
+      "CI/CD tools (Jenkins / GitHub Actions)"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Tool gaps only (learnable): ci/cd, jenkins",
+    "is_external_apply": false
+  },
+  {
+    "title": "Forward Deployed Engineer intern",
+    "company": "Thita AI",
+    "url": "https://in.linkedin.com/jobs/view/forward-deployed-engineer-intern-at-thita-ai-4456880347",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The candidate has strong AI/LLM backend experience and deployment skills matching the core needs of building an AI interview platform. Missing front-end and specific DSA/system design expertise, but overall fit is solid for an intern role.",
+    "experience_required": "Not specified (internship, typically 0-1 year)",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "LLM integration",
+      "LangChain",
+      "Retrieval Augmented Generation",
+      "Vector databases",
+      "AI/ML pipelines"
+    ],
+    "missing_skills": [
+      "Frontend web development (e.g., React/JS)",
+      "Deep DSA algorithm expertise",
+      "System Design knowledge"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Tool gaps only (learnable): react",
+    "is_external_apply": false
+  },
+  {
+    "title": "Software Development Engineering Internship - Remote - Agentic Coding - Full Stack",
+    "company": "Pinggy",
+    "url": "https://in.linkedin.com/jobs/view/software-development-engineering-internship-remote-agentic-coding-full-stack-at-pinggy-4455845336",
+    "score": 65,
+    "verdict": "Good Fit",
+    "reason": "The candidate strongly matches the AI/agentic coding and Python backend requirements, but lacks the required front‑end stack (Next.js, Redux) and Java Spring Boot experience, placing them as a good fit for the internship with targeted upskilling.",
+    "experience_required": "Not specified (entry‑level/fresher)",
+    "matched_skills": [
+      "Python",
+      "Embeddings",
+      "Vector Databases (ChromaDB, FAISS)",
+      "Agentic AI / Multi‑agent systems",
+      "RAG pipelines",
+      "FastAPI"
+    ],
+    "missing_skills": [
+      "Next.js",
+      "Redux (or Zustand)",
+      "Spring Boot",
+      "Claude/Codex specific agentic coding"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills are optional tools",
+    "is_external_apply": false
+  }
+]

@@ -1,0 +1,255 @@
+[
+  {
+    "title": "AI / Generative AI Intern",
+    "company": "ZSoft Technologies Pty Ltd",
+    "url": "https://in.linkedin.com/jobs/view/ai-generative-ai-intern-at-zsoft-technologies-pty-ltd-4457895182",
+    "score": 88,
+    "verdict": "Strong Match",
+    "reason": "The candidate satisfies all mandatory requirements and exceeds many optional ones, with multiple relevant projects and hands‑on experience in Python, LLMs, RAG, agentic AI, and cloud deployment. No hard skill gaps are identified, making this a strong fit for the internship.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "Generative AI / LLM fundamentals",
+      "APIs (FastAPI)",
+      "Databases (Supabase, SQLite, Neo4j)",
+      "Git/GitHub",
+      "RAG",
+      "Vector databases (ChromaDB, FAISS)",
+      "Agentic AI / AI agents (LangGraph ReAct)",
+      "LangChain",
+      "LangGraph",
+      "AWS (EC2)",
+      "Docker",
+      "Basic frontend (Streamlit, Playwright)"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "Generative AI Engineer",
+    "company": "Wns Global Solutions Private Limited.",
+    "url": "https://in.linkedin.com/jobs/view/generative-ai-engineer-at-wns-global-solutions-private-limited-4456858256",
+    "score": 86,
+    "verdict": "Strong Match",
+    "reason": "The JD seeks a Generative AI Engineer with strong ML/DL foundations and model deployment experience, which aligns closely with the candidate's expertise in Python, LLM fine‑tuning, Docker, AWS, and FastAPI. No hard technical requirements are missing, making the candidate an excellent fit for the role.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "Generative AI",
+      "LLM fine-tuning",
+      "Model deployment",
+      "Docker",
+      "AWS",
+      "FastAPI",
+      "Prompt Engineering"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "Forward Deployed Engineer (FDE)",
+    "company": "Founders.Careers",
+    "url": "https://in.linkedin.com/jobs/view/forward-deployed-engineer-fde-at-founders-careers-4455081400",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The candidate possesses extensive hands‑on experience with LLMs, agentic AI, production‑grade deployment (Docker, AWS), and API/database integration, directly aligning with the FDE role's core responsibilities. No hard requirements are unmet, making this a strong match.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "LLMs (Llama-3.3-70B)",
+      "LangChain",
+      "LangGraph",
+      "Multi-agent systems",
+      "Agentic AI",
+      "Vector databases (ChromaDB, FAISS)",
+      "Neo4j / Knowledge Graphs",
+      "Prompt Engineering",
+      "Retrieval Augmented Generation",
+      "API integration"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "AI Agents Developer - Interns",
+    "company": "CBC",
+    "url": "https://in.linkedin.com/jobs/view/ai-agents-developer-interns-at-cbc-4456842329",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The candidate's experience with LangChain, vector stores, FastAPI, Docker, and AWS aligns closely with the JD's core requirements. No hard requirements are missing, making this a strong fit for the intern role.",
+    "experience_required": "Not specified (internship, entry-level)",
+    "matched_skills": [
+      "LangChain",
+      "LangGraph",
+      "FAISS",
+      "ChromaDB",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "Python",
+      "Prompt Engineering",
+      "RAG pipelines",
+      "Vector databases"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "Forward Deployed Engineer (Remote)",
+    "company": "Hire Feed",
+    "url": "https://in.linkedin.com/jobs/view/forward-deployed-engineer-remote-at-hire-feed-4458141560",
+    "score": 78,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets all mandatory requirements (Python, AWS, Docker, production AI model deployment) and has relevant project experience. Lacking only preferred Kubernetes and CI/CD expertise, the overall fit is strong but not perfect.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "AWS",
+      "Docker",
+      "AI/ML model deployment",
+      "FastAPI"
+    ],
+    "missing_skills": [
+      "Kubernetes",
+      "CI/CD pipelines"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Tool gaps only (learnable): kubernetes, ci/cd",
+    "is_external_apply": false
+  },
+  {
+    "title": "AI/ML Engineer",
+    "company": "SourcingXPress",
+    "url": "https://in.linkedin.com/jobs/view/ai-ml-engineer-at-sourcingxpress-4457896222",
+    "score": 72,
+    "verdict": "Good Fit",
+    "reason": "The candidate demonstrates strong expertise in Python, LLMs, Retrieval Augmented Generation, embeddings and vector stores, aligning well with the core technical needs. However, they lack experience in GEO/AEO, search ranking and SGE, which are key focus areas for the role.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "LLMs",
+      "RAG",
+      "Embeddings",
+      "Vector databases",
+      "Generative AI",
+      "AI-powered search"
+    ],
+    "missing_skills": [
+      "GEO/AEO",
+      "Search ranking",
+      "SGE (Search Generative Experience)"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills are optional tools",
+    "is_external_apply": false
+  },
+  {
+    "title": "LLM Fine-Tuning / Machine Learning Engineer – Fresher",
+    "company": "Noviqra Technologies Private Limited",
+    "url": "https://in.linkedin.com/jobs/view/llm-fine-tuning-machine-learning-engineer-%E2%80%93-fresher-at-noviqra-technologies-private-limited-4455069618",
+    "score": 72,
+    "verdict": "Good Fit",
+    "reason": "The candidate demonstrates strong Python expertise, LLM fine‑tuning, embeddings and vector‑DB work, aligning well with the core responsibilities. However, they lack explicit experience with PyTorch/TensorFlow, Hugging Face, and LoRA/PEFT methods, keeping the fit solid but not exceptional.",
+    "experience_required": "0-1 years (Fresher / Entry-level)",
+    "matched_skills": [
+      "Python",
+      "LLM fine-tuning",
+      "Embeddings",
+      "Vector databases (ChromaDB, FAISS)",
+      "Machine Learning pipelines",
+      "Retrieval Augmented Generation (RAG)"
+    ],
+    "missing_skills": [
+      "PyTorch",
+      "TensorFlow",
+      "Hugging Face",
+      "LoRA / QLoRA / PEFT techniques"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills are optional tools",
+    "is_external_apply": false
+  },
+  {
+    "title": "Software Engineer (Backend) for an AI automation platform",
+    "company": "Robylon AI",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-backend-for-an-ai-automation-platform-at-robylon-ai-4455089886",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The candidate's backend experience with Python, FastAPI, Docker, and AWS aligns well with the role's core requirements. While they lack explicit large‑scale production or distributed systems experience, the overall skill overlap is strong for an entry‑level position.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "API development",
+      "Data pipelines"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "Software Engineer (Human Data Platforms)",
+    "company": "Hired",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-human-data-platforms-at-hired-4458142801",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets core requirements like Python, AWS, and database experience, but lacks explicit distributed system experience (Kafka/Spark) and data governance knowledge. Overall alignment is solid for an entry-level role.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "AWS",
+      "SQL/NoSQL (SQLite, Supabase, Neo4j)",
+      "Docker"
+    ],
+    "missing_skills": [
+      "Kafka/Spark (distributed systems)",
+      "Data governance/security/compliance",
+      "Java/Go"
+    ],
+    "apply_decision": "SKIP",
+    "apply_reason": "Core gaps: java",
+    "is_external_apply": false
+  },
+  {
+    "title": "AI Developer",
+    "company": "Criclive.in",
+    "url": "https://in.linkedin.com/jobs/view/ai-developer-at-criclive-in-4455825708",
+    "score": 68,
+    "verdict": "Good Fit",
+    "reason": "The JD does not state a 2+ year experience requirement, so the candidate proceeds. Their AI/ML, Python, deployment, and NLP skills align well with the role, though they lack explicit deep learning framework experience and cricket domain knowledge. Overall a good fit worth applying.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "Machine Learning",
+      "NLP",
+      "Model Deployment",
+      "Data Pipelines"
+    ],
+    "missing_skills": [
+      "Deep Learning frameworks (e.g., PyTorch/TensorFlow)",
+      "Domain-specific cricket data expertise"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills are optional tools",
+    "is_external_apply": false
+  }
+]

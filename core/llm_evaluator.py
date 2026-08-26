@@ -119,6 +119,12 @@ def pre_filter_experience(jd_text: str, role_title: str) -> tuple[bool, str]:
         
         # P8: "3 years of building" or "5 years working with" (action verbs after bridge)
         rf'{NUM}\+?\s*{YRS}\s+(?:of\s+)?(?:.{{0,40}}?\b)?(?:building|working|developing|designing|leading|managing|shipping|deploying)',
+
+        # P9: catch simple "2 years" if immediately followed by experience context
+        rf'{NUM}\s*{YRS}(?:\s+of)?\s+(?:work\s+)?(?:experience|exp)\b',
+
+        # P10: requires 2 years
+        rf'(?:requires|required|minimum|min)\s+(?:of\s+)?{NUM}\s*{YRS}',
     ]
     
     for pat in patterns:

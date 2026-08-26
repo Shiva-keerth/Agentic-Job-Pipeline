@@ -1,0 +1,304 @@
+[
+  {
+    "title": "Gen AI  developer",
+    "company": "People Prime Worldwide",
+    "url": "https://in.linkedin.com/jobs/view/gen-ai-developer-at-people-prime-worldwide-4459001060",
+    "score": 88,
+    "verdict": "Strong Match",
+    "reason": "The candidate meets all core JD requirements, covering LLM usage, prompt engineering, RAG pipelines, vector DBs, LangChain/LangGraph agents, and production deployment tools. No hard requirements are missing, resulting in a strong fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "LangChain",
+      "LangGraph",
+      "ChromaDB",
+      "FAISS",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "Llama-3.3-70B",
+      "Prompt Engineering",
+      "RAG pipelines",
+      "LLM fine-tuning",
+      "Python 3.10+"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "GenAI Developer",
+    "company": "Barclays",
+    "url": "https://in.linkedin.com/jobs/view/genai-developer-at-barclays-4456978979",
+    "score": 88,
+    "verdict": "Strong Match",
+    "reason": "The candidate meets all core requirements (AWS, Python, Agentic AI, LLM, RAG, LangGraph) and brings strong DevOps experience with Docker. The only gap is optional Go language expertise, which does not block suitability.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "AWS",
+      "Python",
+      "Agentic AI",
+      "LLM",
+      "RAG",
+      "LangGraph",
+      "DevOps (Docker)"
+    ],
+    "missing_skills": [
+      "Go Lang"
+    ],
+    "apply_decision": "SKIP",
+    "apply_reason": "Core gaps: go lang",
+    "is_external_apply": false
+  },
+  {
+    "title": "AI Agent Engineer",
+    "company": "Cialfo",
+    "url": "https://in.linkedin.com/jobs/view/ai-agent-engineer-at-cialfo-4441896729",
+    "score": 86,
+    "verdict": "Strong Match",
+    "reason": "The JD does not state any minimum years of experience or seniority, so the candidate passes the mandatory check. Their extensive background in AI agents, LangChain/Graph, Python, Docker, and AWS aligns closely with the role's focus on production‑grade agentic systems. No hard requirements are missing, making this a strong fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "AI agents",
+      "LangChain",
+      "LangGraph",
+      "Docker",
+      "AWS",
+      "FastAPI",
+      "Retrieval Augmented Generation",
+      "Multi-agent systems"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "Applied AI Engineer - Software Engineer II",
+    "company": "Deloitte",
+    "url": "https://in.linkedin.com/jobs/view/applied-ai-engineer-software-engineer-ii-at-deloitte-4457654067",
+    "score": 86,
+    "verdict": "Strong Match",
+    "reason": "The JD does not state a minimum years‑of‑experience requirement, and the role is not senior‑level, so the candidate passes the mandatory check. Their extensive generative‑AI, full‑stack (FastAPI, Docker, AWS), and agentic AI expertise aligns closely with the applied AI focus of the position, resulting in a strong overall fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "Generative AI (LLM, Llama-3.3-70B)",
+      "Agentic AI / Multi‑agent systems",
+      "LangChain / LangGraph",
+      "Retrieval Augmented Generation",
+      "Vector databases (ChromaDB, FAISS)",
+      "Knowledge Graphs (Neo4j)"
+    ],
+    "missing_skills": [
+      "JavaScript/React (front‑end UI)",
+      "Kubernetes or advanced container orchestration",
+      "CI/CD pipeline tooling"
+    ],
+    "apply_decision": "SKIP",
+    "apply_reason": "Core gaps: java",
+    "is_external_apply": false
+  },
+  {
+    "title": "GenAI Consultant",
+    "company": "People Prime Worldwide",
+    "url": "https://in.linkedin.com/jobs/view/genai-consultant-at-people-prime-worldwide-4459004015",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The candidate's skill set aligns closely with the JD, covering core requirements like Python/FastAPI, RAG, agents, embeddings, and cloud deployment. Only a few non‑core areas (security, responsible AI, monitoring) are absent, resulting in a strong overall fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "RAG pipelines",
+      "Prompt Engineering",
+      "Vector databases (ChromaDB, FAISS)",
+      "AI agents / Multi‑agent systems",
+      "LangGraph ReAct agents",
+      "AWS (EC2)",
+      "LLM API integration (Groq API)",
+      "Embeddings"
+    ],
+    "missing_skills": [
+      "Security/Governance practices",
+      "Responsible AI frameworks",
+      "Performance & model quality monitoring"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills are optional tools",
+    "is_external_apply": false
+  },
+  {
+    "title": "Gen AI/ML Engineer Internship Role",
+    "company": "ARTIQULUS TECHNOLOGIES PVT LTD",
+    "url": "https://in.linkedin.com/jobs/view/gen-ai-ml-engineer-internship-role-at-artiqulus-technologies-pvt-ltd-4456900486",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The JD does not impose any experience years, and the candidate's expertise in Python, FastAPI, Docker, AWS, and generative AI aligns well with the internship responsibilities. No hard requirements are missing, making this a strong fit.",
+    "experience_required": "Not specified (internship, likely 0-1 years)",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "Generative AI",
+      "Machine Learning",
+      "Model training",
+      "Neural network experimentation",
+      "API integration"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "AI – Prompt Engineering & AI Agents Internship in Mumbai",
+    "company": "ACQUEST PROPERTY AND HOSPITALITY SERVICES PRIVATE LIMITED",
+    "url": "https://in.linkedin.com/jobs/view/ai-%E2%80%93-prompt-engineering-ai-agents-internship-in-mumbai-at-acquest-property-and-hospitality-services-private-limited-4459076408",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The JD seeks prompt engineering and AI agent development with no experience bar, matching the candidate's core expertise. The candidate possesses all relevant technical abilities, making this a strong fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Prompt Engineering",
+      "AI Agents (LangChain, LangGraph, ReAct agents)",
+      "Python",
+      "Docker",
+      "FastAPI",
+      "AWS EC2",
+      "Workflow Automation (APScheduler)",
+      "LLM integration (Groq API, Llama-3.3-70B)",
+      "Research & evaluation of AI tools"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "Junior AI/ML Engineer",
+    "company": "GAC Solutions",
+    "url": "https://in.linkedin.com/jobs/view/junior-ai-ml-engineer-at-gac-solutions-4457482993",
+    "score": 78,
+    "verdict": "Good Fit",
+    "reason": "The JD seeks a junior AI/ML engineer with about a year of experience, which aligns with the candidate's 8‑month internship and strong Python/ML background. No specific hard requirements are listed, and the candidate meets the implied skill set.",
+    "experience_required": "1 year or internship experience",
+    "matched_skills": [
+      "Python",
+      "Machine Learning",
+      "AI"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "People Staffing Solutions",
+    "url": "https://in.linkedin.com/jobs/view/machine-learning-engineer-at-people-staffing-solutions-4457460615",
+    "score": 75,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets core requirements in generative AI, LLMs, Python, cloud deployment, and basic SQL, but lacks explicit experience with mainstream ML libraries like scikit-learn or TensorFlow. Overall skill overlap is strong enough for a good fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Generative AI",
+      "LLMs (Llama-3.3)",
+      "Python",
+      "SQL (SQLite)",
+      "AWS",
+      "Docker",
+      "FastAPI"
+    ],
+    "missing_skills": [
+      "scikit-learn / TensorFlow / PyTorch",
+      "R"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills are optional tools",
+    "is_external_apply": false
+  },
+  {
+    "title": "AI Engineer",
+    "company": "OATI",
+    "url": "https://in.linkedin.com/jobs/view/ai-engineer-at-oati-4458501392",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The candidate covers most core requirements such as LangChain, LangGraph, RAG, vector stores, prompt engineering, and LLM fine‑tuning, aligning well with the role. Missing experience with MLflow, MCP, and explicit Text‑to‑SQL work reduces the fit but not enough to disqualify.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "LangChain",
+      "LangGraph",
+      "RAG pipelines",
+      "Vector databases",
+      "Prompt Engineering",
+      "LLM fine-tuning",
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS",
+      "Multi-agent systems",
+      "Agentic AI"
+    ],
+    "missing_skills": [
+      "MLflow",
+      "Model Context Protocol (MCP)",
+      "Text-to-SQL"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Tool gaps only (learnable): mlflow",
+    "is_external_apply": false
+  },
+  {
+    "title": "Software Engineer I",
+    "company": "LG Ad Solutions",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-i-at-lg-ad-solutions-4458719155",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets core backend and cloud requirements and has AI expertise, but lacks specific big‑data and ad‑tech experience typical for the role. Overlap is solid enough for an early‑career application.",
+    "experience_required": "Not specified (entry-level)",
+    "matched_skills": [
+      "Python",
+      "Docker",
+      "AWS EC2",
+      "FastAPI",
+      "AI/ML"
+    ],
+    "missing_skills": [
+      "Big Data frameworks (e.g., Spark, Hadoop, Kafka)",
+      "Ad serving platform experience",
+      "Distributed systems engineering (e.g., low‑latency services)"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Tool gaps only (learnable): kafka",
+    "is_external_apply": false
+  },
+  {
+    "title": "Python Developer",
+    "company": "Finnov8 Capital",
+    "url": "https://in.linkedin.com/jobs/view/python-developer-at-finnov8-capital-4456913450",
+    "score": 65,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets core requirements like Python, API development, and SQL/database skills, but lacks Redis and explicit back‑testing experience. Overall alignment is solid for an entry‑level Python developer role.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI (API development)",
+      "SQLite (SQL)",
+      "Supabase (SQL/database)"
+    ],
+    "missing_skills": [
+      "Redis",
+      "Back testing frameworks",
+      "Real-time data pipeline experience"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Tool gaps only (learnable): redis",
+    "is_external_apply": false
+  }
+]

@@ -1,0 +1,225 @@
+[
+  {
+    "title": "Engineering Associate Program (EAP) 2026",
+    "company": "Springreen",
+    "url": "https://in.linkedin.com/jobs/view/engineering-associate-program-eap-2026-at-springreen-4446984148",
+    "score": 92,
+    "verdict": "Strong Match",
+    "reason": "The JD seeks fresh graduates for an Engineering Associate Program with focus on Generative AI, AI agents, and cloud/devops. The candidate's strong background in these areas, plus relevant tools (Docker, AWS, FastAPI), aligns perfectly, resulting in a strong match.",
+    "experience_required": "Freshers (0 years of experience) or recent graduates",
+    "matched_skills": [
+      "Generative AI",
+      "AI Agents",
+      "LangChain",
+      "LangGraph",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "Prompt Engineering",
+      "RAG pipelines",
+      "Vector databases (ChromaDB, FAISS)",
+      "Python 3.10+",
+      "DevOps concepts"
+    ],
+    "missing_skills": []
+  },
+  {
+    "title": "Software Engineer",
+    "company": "NatWest Group",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-at-natwest-group-4447506117",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The JD does not specify any years of experience, and the candidate's AI/LLM, backend, and cloud automation skills align closely with the role's requirements. No hard requirements are missing, making this a strong fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS",
+      "LLM integration",
+      "Retrieval Augmented Generation",
+      "Automation",
+      "API development"
+    ],
+    "missing_skills": []
+  },
+  {
+    "title": "Cognitive Engineer",
+    "company": "EXL",
+    "url": "https://in.linkedin.com/jobs/view/cognitive-engineer-at-exl-4446584329",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The candidate possesses extensive AI/ML engineering experience, relevant tools, and production deployment skills that align with the entry‑level Cognitive Engineer role. No hard requirements are missing, making this a strong fit.",
+    "experience_required": "Not specified (Entry level)",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "Machine Learning model development",
+      "AI/ML model deployment",
+      "LLM integration",
+      "Retrieval Augmented Generation",
+      "Vector databases"
+    ],
+    "missing_skills": []
+  },
+  {
+    "title": "Artificial Intelligence Engineer",
+    "company": "Inspire Your Idea",
+    "url": "https://in.linkedin.com/jobs/view/artificial-intelligence-engineer-at-inspire-your-idea-4445091964",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The JD does not state a minimum experience threshold, so the candidate passes the mandatory check. Their extensive AI/ML, LLM, deployment, and cloud experience aligns closely with the role's responsibilities, making them a strong fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "LLM/NLP (Llama-3, Groq)",
+      "LangChain",
+      "RAG pipelines",
+      "Model deployment",
+      "AI pipeline maintenance"
+    ],
+    "missing_skills": []
+  },
+  {
+    "title": "AI Automation Engineer in Mumbai",
+    "company": "LetsTute",
+    "url": "https://in.linkedin.com/jobs/view/ai-automation-engineer-in-mumbai-at-letstute-4447236318",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "Candidate possesses strong Python and LLM expertise, builds AI agents and automation pipelines, and has experience with APIs and deployment tools, covering all core JD requirements. No hard requirements are missing, resulting in a strong match.",
+    "experience_required": "Not specified (Entry level)",
+    "matched_skills": [
+      "Python",
+      "LLMs",
+      "AI agents",
+      "APIs",
+      "Docker",
+      "FastAPI",
+      "LangChain",
+      "LangGraph",
+      "Prompt Engineering"
+    ],
+    "missing_skills": []
+  },
+  {
+    "title": "AI Engineer II",
+    "company": "American Express",
+    "url": "https://in.linkedin.com/jobs/view/ai-engineer-ii-at-american-express-4447129165",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The candidate's expertise in LLMs, prompt engineering, RAG, AI agents, and vector databases aligns closely with the JD's core requirements. While lacking explicit experience in automated testing and compliance, the overall skill overlap is strong, making this a high‑potential fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "LLMs (Llama-3.3-70B)",
+      "Prompt Engineering",
+      "Retrieval Augmented Generation (RAG)",
+      "AI agents / Multi-agent systems",
+      "Vector databases (ChromaDB, FAISS)",
+      "LangChain / LangGraph"
+    ],
+    "missing_skills": [
+      "Automated testing frameworks",
+      "Security compliance practices",
+      "Regulatory compliance knowledge"
+    ]
+  },
+  {
+    "title": "Remote Machine Learning Engineer",
+    "company": "Emma of Torre.ai",
+    "url": "https://in.linkedin.com/jobs/view/remote-machine-learning-engineer-at-emma-of-torre-ai-4447278548",
+    "score": 78,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets all core technical requirements (Python, model development, deployment) and exceeds with cloud and container expertise. Only Git is not explicitly listed, keeping the fit strong but not perfect.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "Docker",
+      "AWS",
+      "FastAPI",
+      "Machine Learning model development",
+      "Model deployment",
+      "Data pipelines"
+    ],
+    "missing_skills": [
+      "Git"
+    ]
+  },
+  {
+    "title": "Flipkart GRiD 8.0",
+    "company": "MyCareernet",
+    "url": "https://in.linkedin.com/jobs/view/flipkart-grid-8-0-at-mycareernet-4432951169",
+    "score": 78,
+    "verdict": "Good Fit",
+    "reason": "The JD targets freshers for AI Engineering and Data Science tracks with no specific tech stack, matching the candidate's strong generative AI and Python-based skill set. While the role is broad, the candidate's expertise aligns well, making it a good fit.",
+    "experience_required": "Freshers / 0-1 years (no explicit experience requirement)",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS",
+      "LLM",
+      "Retrieval Augmented Generation",
+      "Prompt Engineering",
+      "Data Science",
+      "AI Engineering"
+    ],
+    "missing_skills": []
+  },
+  {
+    "title": "Artificial Intelligence Engineer",
+    "company": "CITS (Connected IT Solution)",
+    "url": "https://in.linkedin.com/jobs/view/artificial-intelligence-engineer-at-cits-connected-it-solution-4446746744",
+    "score": 75,
+    "verdict": "Good Fit",
+    "reason": "The JD does not state a minimum experience level, so the candidate passes the mandatory check. Their Python, FastAPI, Docker, AWS, and AI pipeline experience align well with the role's core responsibilities. The only gaps are specific deep‑learning frameworks that the JD does not explicitly require, resulting in a solid Good Fit score.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "Machine Learning pipelines (RAG pipelines)",
+      "Natural Language Processing (LLM prompt engineering)",
+      "Production code integration",
+      "Agile development"
+    ],
+    "missing_skills": [
+      "TensorFlow / PyTorch",
+      "scikit-learn",
+      "Keras"
+    ]
+  },
+  {
+    "title": "Artificial Intelligence Engineer",
+    "company": "Nians",
+    "url": "https://in.linkedin.com/jobs/view/artificial-intelligence-engineer-at-nians-4446986565",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The candidate excels in Python‑based AI development, RAG pipelines, and vector‑store integration, matching core requirements. However, they lack front‑end JavaScript/TypeScript and specific web framework experience, limiting fit for full‑stack responsibilities.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "RAG pipelines",
+      "Vector databases (ChromaDB, FAISS)",
+      "LLM APIs (Groq, Llama)",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "Retrieval Augmented Generation"
+    ],
+    "missing_skills": [
+      "JavaScript/TypeScript",
+      "Node.js/Next.js",
+      "Payload CMS"
+    ]
+  }
+]

@@ -1,0 +1,207 @@
+[
+  {
+    "title": "Generative AI Engineer",
+    "company": "The Agentic Loop",
+    "url": "https://in.linkedin.com/jobs/view/generative-ai-engineer-at-the-agentic-loop-4440111286",
+    "score": 86,
+    "verdict": "Strong Match",
+    "reason": "The JD seeks a Generative AI Engineer with strong prompt engineering, agentic AI, and LLM orchestration skills, all of which the candidate demonstrates through multiple projects and relevant tools. No explicit experience years or hard tech requirements are listed, making the candidate an excellent fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Prompt Engineering",
+      "Agentic AI",
+      "Multi-agent systems",
+      "LLM experience (Llama-3.3-70B)",
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "Model evaluation / fine‑tuning",
+      "Orchestration of LLM agents (LangGraph)",
+      "Prototyping / production demos"
+    ],
+    "missing_skills": []
+  },
+  {
+    "title": "AI Engineer",
+    "company": "TestCompany123Blr2023",
+    "url": "https://in.linkedin.com/jobs/view/ai-engineer-at-testcompany123blr2023-4440105599",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The candidate meets all core requirements—Python, LLM expertise, agentic workflows, and RAG pipelines—and has cloud deployment experience. Only the specific Gemini platform is absent, which is listed as negotiable, resulting in a strong overall fit.",
+    "experience_required": "Not specified (entry-level/associate)",
+    "matched_skills": [
+      "Python",
+      "LLM & Generative AI",
+      "AI Agentic Workflow",
+      "End-to-End RAG Pipeline",
+      "Cloud & Scalable AI Deployment (AWS, Docker)"
+    ],
+    "missing_skills": [
+      "Gemini Enterprise (Google ADK)"
+    ]
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "Tejoule Software Systems",
+    "url": "https://in.linkedin.com/jobs/view/machine-learning-engineer-at-tejoule-software-systems-4442039171",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The JD seeks candidates with LLM, ML, AI, and cloud experience, all of which the candidate demonstrates through projects and skills. No hard requirements are unmet, making this a strong alignment.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "LLMs",
+      "Machine Learning",
+      "AI",
+      "Cloud Technologies (AWS)",
+      "Python",
+      "FastAPI",
+      "Docker",
+      "Vector databases",
+      "Retrieval Augmented Generation"
+    ],
+    "missing_skills": []
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Infor",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-at-infor-4421112022",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The candidate’s skill set aligns closely with the JD’s core requirements—Python, LangChain, RAG pipelines, vector search, embeddings, and SQL. Missing only niche tools (LlamaIndex, MS Copilot) and deeper data‑engineering depth, the overall fit is strong.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "LangChain",
+      "Retrieval Augmented Generation (RAG)",
+      "Vector databases (ChromaDB, FAISS)",
+      "Embeddings",
+      "SQL (SQLite, Supabase)",
+      "AI agents (LangGraph ReAct)"
+    ],
+    "missing_skills": [
+      "LlamaIndex",
+      "Microsoft Copilot integration",
+      "Extensive large‑scale data engineering experience"
+    ]
+  },
+  {
+    "title": "AI/ML Computational Science Associate",
+    "company": "Accenture in India",
+    "url": "https://in.linkedin.com/jobs/view/ai-ml-computational-science-associate-at-accenture-in-india-4438434600",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The JD seeks 0-1 year AI/ML experience, which aligns with the candidate's background in Python, AI/ML, and related tools. No hard technical requirements are listed that the candidate lacks, making this a strong fit.",
+    "experience_required": "0 to 1 year",
+    "matched_skills": [
+      "Python",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Data Analytics",
+      "FastAPI",
+      "Docker",
+      "AWS"
+    ],
+    "missing_skills": []
+  },
+  {
+    "title": "Graduate Software Engineer",
+    "company": "Urban Ground GmbH",
+    "url": "https://in.linkedin.com/jobs/view/graduate-software-engineer-at-urban-ground-gmbh-4438420158",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The JD seeks a 0‑1 year graduate engineer for AI‑driven backend work. Shiva's strong Python, FastAPI, Docker, AWS, and AI‑agent experience aligns closely with the role, while only peripheral skills like specific telephony or testing tools are absent. Overall fit is excellent.",
+    "experience_required": "0–1 year",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "AI agents / Agentic AI",
+      "Voice AI (Groq Whisper)",
+      "Backend development",
+      "Production deployment"
+    ],
+    "missing_skills": [
+      "Telephony integration (e.g., Twilio)",
+      "Automated testing frameworks (e.g., pytest)",
+      "Monitoring/logging tools (e.g., Prometheus, Grafana)"
+    ]
+  },
+  {
+    "title": "Artificial Intelligence Engineer",
+    "company": "Publicis Production",
+    "url": "https://in.linkedin.com/jobs/view/artificial-intelligence-engineer-at-publicis-production-4440043894",
+    "score": 82,
+    "verdict": "Strong Match",
+    "reason": "The candidate meets all core requirements (Python, LLM/RAG knowledge, API work) and has strong relevant project experience. The only gaps are GCP experience and a stated Git background, which are not hard blockers, leading to a strong overall fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "Large Language Models (LLMs)",
+      "Retrieval Augmented Generation (RAG)",
+      "Agentic AI / Multi‑agent systems",
+      "API integration (Groq API)",
+      "Docker",
+      "FastAPI"
+    ],
+    "missing_skills": [
+      "Google Cloud Platform (GCP)",
+      "Explicit Git version‑control experience"
+    ]
+  },
+  {
+    "title": "AI/ML Junior Developer",
+    "company": "BNP Paribas",
+    "url": "https://in.linkedin.com/jobs/view/ai-ml-junior-developer-at-bnp-paribas-4373914724",
+    "score": 78,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets the core Python, API, and LLM requirements and has relevant prompt engineering experience. The only hard gap is Oracle PL/SQL, which is a specific SQL skill the JD expects. Overall alignment is strong enough for a good fit.",
+    "experience_required": "Not specified (entry-level/junior)",
+    "matched_skills": [
+      "Python",
+      "API integration (FastAPI)",
+      "LLM usage (Llama-3, Groq)",
+      "Prompt Engineering",
+      "Unit testing"
+    ],
+    "missing_skills": [
+      "Oracle PL/SQL"
+    ]
+  },
+  {
+    "title": "Gen AI Python Programmer Analyst",
+    "company": "Citi",
+    "url": "https://in.linkedin.com/jobs/view/gen-ai-python-programmer-analyst-at-citi-4413547218",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets core requirements like Python programming, API development, containerization, and cloud deployment. While lacking explicit security testing and scripting tool experience, the overall skill set aligns well enough for a good fit.",
+    "experience_required": "Not specified (intermediate level, no years mentioned)",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2"
+    ],
+    "missing_skills": [
+      "Security testing / vulnerability analysis",
+      "Script tools (e.g., Bash)",
+      "Formal software testing frameworks"
+    ]
+  },
+  {
+    "title": "Associate Engineer - AI / ML [T500-26256]",
+    "company": "Albertsons Companies India",
+    "url": "https://in.linkedin.com/jobs/view/associate-engineer-ai-ml-t500-26256-at-albertsons-companies-india-4430422355",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The JD does not state any experience years, so the candidate passes the mandatory check. While the role is generic AI/ML, the candidate's Python, cloud (AWS) and containerization (Docker) experience align with implied requirements. No hard skills are explicitly required that the candidate lacks, resulting in a good overall fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "AWS",
+      "Docker"
+    ],
+    "missing_skills": []
+  }
+]

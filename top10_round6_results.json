@@ -1,0 +1,229 @@
+[
+  {
+    "title": "Junior Software Engineer",
+    "company": "UnifiedAI",
+    "url": "https://in.linkedin.com/jobs/view/junior-software-engineer-at-unifiedai-4449034816",
+    "score": 88,
+    "verdict": "Strong Match",
+    "reason": "The JD requires entry-level experience with web development, data engineering, and AI agents, all of which align with the candidate's extensive Python, FastAPI, Docker, AWS, and agentic AI stack. No hard requirements are unmet, making this a strong fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "LangChain",
+      "LangGraph",
+      "AI agents",
+      "Web development",
+      "Data engineering"
+    ],
+    "missing_skills": []
+  },
+  {
+    "title": "Trainee Software Engineer",
+    "company": "TRKFLY AI",
+    "url": "https://in.linkedin.com/jobs/view/trainee-software-engineer-at-trkfly-ai-4448164392",
+    "score": 88,
+    "verdict": "Strong Match",
+    "reason": "The candidate's extensive generative AI, LangChain/LangGraph, FastAPI, and RAG experience aligns perfectly with the JD. No hard requirements are missing, making this a strong fit for the trainee role.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "LangChain",
+      "LangGraph",
+      "Retrieval-Augmented Generation (RAG)",
+      "Vector databases (ChromaDB, FAISS)",
+      "Prompt Engineering",
+      "Large Language Models (LLMs)",
+      "Docker",
+      "AWS EC2"
+    ],
+    "missing_skills": []
+  },
+  {
+    "title": "AI / ML Engineer",
+    "company": "AVIX Labs",
+    "url": "https://in.linkedin.com/jobs/view/ai-ml-engineer-at-avix-labs-4448307616",
+    "score": 88,
+    "verdict": "Strong Match",
+    "reason": "The candidate's experience with Python, FastAPI, LangChain, vector stores, AWS, and agentic RAG systems aligns tightly with the JD. Only optional skills like Node.js and LlamaIndex are absent, resulting in a strong overall fit.",
+    "experience_required": "Entry level (no specific years mentioned)",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "LangChain",
+      "Vector databases (ChromaDB, FAISS)",
+      "AWS (EC2)",
+      "Prompt Engineering",
+      "Multi-agent systems",
+      "Retrieval Augmented Generation (RAG)",
+      "LLM fine-tuning"
+    ],
+    "missing_skills": [
+      "Node.js",
+      "LlamaIndex"
+    ]
+  },
+  {
+    "title": "GBM - STS AI Structuring - Sales Strats - Analyst/Associate - Bengaluru",
+    "company": "Goldman Sachs",
+    "url": "https://in.linkedin.com/jobs/view/gbm-sts-ai-structuring-sales-strats-analyst-associate-bengaluru-at-goldman-sachs-4447351325",
+    "score": 86,
+    "verdict": "Strong Match",
+    "reason": "The JD seeks a junior AI developer to build AI‑driven web apps and agents, which aligns closely with the candidate's Python, FastAPI, Docker, AWS, and agentic AI expertise. No explicit experience years or hard tech requirements are missing, making this a strong fit.",
+    "experience_required": "Not specified (Junior level)",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "AI agents",
+      "LangChain",
+      "RAG pipelines",
+      "Prompt Engineering"
+    ],
+    "missing_skills": []
+  },
+  {
+    "title": "AI Engineer",
+    "company": "Visa Shuttle",
+    "url": "https://in.linkedin.com/jobs/view/ai-engineer-at-visa-shuttle-4448917713",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The candidate meets all core requirements (Python, AI/LLM development, API/backend work, AI agents) and has strong experience with LangChain, LangGraph, vector stores, and cloud deployment. Only preferred, non‑mandatory tools like Anthropic Claude and CrewAI are absent, resulting in a high fit score.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "LangChain",
+      "LangGraph",
+      "ChromaDB",
+      "RAG (Retrieval Augmented Generation)",
+      "Prompt Engineering",
+      "AWS",
+      "Docker"
+    ],
+    "missing_skills": [
+      "Anthropic Claude API",
+      "LLM cost optimization strategies",
+      "CrewAI or AutoGen frameworks"
+    ]
+  },
+  {
+    "title": "Associate GenAI Engineer",
+    "company": "NxtWave",
+    "url": "https://in.linkedin.com/jobs/view/associate-genai-engineer-at-nxtwave-4448825714",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The candidate's expertise in LangGraph, LLM APIs, agentic systems, and cloud deployment aligns closely with the role's core responsibilities. The only notable gap is experience with n8n, a specific workflow tool, but overall skill overlap is high, making this a strong fit.",
+    "experience_required": "Not specified (entry-level)",
+    "matched_skills": [
+      "LangGraph",
+      "LLM APIs (Groq, Llama-3.3-70B)",
+      "Agentic AI / Multi-agent systems",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "Prompt Engineering",
+      "Retrieval Augmented Generation",
+      "LangChain"
+    ],
+    "missing_skills": [
+      "n8n (workflow automation)"
+    ]
+  },
+  {
+    "title": "Python & GenAI Engineer",
+    "company": "Capgemini",
+    "url": "https://in.linkedin.com/jobs/view/python-genai-engineer-at-capgemini-4449015155",
+    "score": 85,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets the core Python, GenAI, RAG, LangChain/LangGraph, and containerization requirements, aligning well with the role. The only notable gaps are deep‑learning frameworks (PyTorch/TensorFlow/Keras) and some DevOps tools, which are not deal‑breakers for an entry‑level position.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "Docker",
+      "LangChain",
+      "LangGraph",
+      "Prompt Engineering",
+      "RAG pipelines",
+      "Embeddings",
+      "Vector databases (ChromaDB, FAISS)",
+      "AI Agents",
+      "FastAPI (API development)",
+      "OOP"
+    ],
+    "missing_skills": [
+      "PyTorch / TensorFlow / Keras",
+      "LlamaIndex",
+      "Git",
+      "CI/CD"
+    ]
+  },
+  {
+    "title": "AI Agent Engineer - Evals & Harness",
+    "company": "Lexsi Labs",
+    "url": "https://in.linkedin.com/jobs/view/ai-agent-engineer-evals-harness-at-lexsi-labs-4447817509",
+    "score": 78,
+    "verdict": "Good Fit",
+    "reason": "The JD does not demand 2+ years experience, and the candidate's expertise in Python, agentic/multi‑agent systems, LangChain/Graph, Docker, and cloud deployment aligns closely with building autonomous AI agents and evaluation harnesses. This makes the candidate a solid, though not perfect, match.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "Docker",
+      "AWS EC2",
+      "FastAPI",
+      "LangChain",
+      "LangGraph",
+      "Multi-agent systems",
+      "Agentic AI",
+      "RAG pipelines",
+      "Vector databases"
+    ],
+    "missing_skills": []
+  },
+  {
+    "title": "AI Data Engineer",
+    "company": "Mstack AI",
+    "url": "https://in.linkedin.com/jobs/view/ai-data-engineer-at-mstack-ai-4448725834",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets the core technical expectations (Python, scalable backend, knowledge graphs, AI/ML fundamentals) and has relevant project experience. Lacks Java/Go/Scala and specific chemistry domain exposure, but overall aligns well for an entry-level AI Data Engineer role.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "Neo4j",
+      "Knowledge Graphs",
+      "Machine Learning fundamentals",
+      "AI/LLM pipelines",
+      "Data engineering / scalable backend"
+    ],
+    "missing_skills": [
+      "Java",
+      "Go",
+      "Scala",
+      "Domain-specific chemistry data processing"
+    ]
+  },
+  {
+    "title": "AI Practice Consultant",
+    "company": "M Moser Associates",
+    "url": "https://in.linkedin.com/jobs/view/ai-practice-consultant-at-m-moser-associates-4448816418",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The JD does not list any years of experience or hard technical requirements, and the candidate's AI engineering background, prompt engineering, and experience building AI agents align with the role's focus on human‑AI collaboration. While specific tool experience (e.g., LangChain, Neo4j) is not mentioned, the overall skill set is relevant, making the candidate a good fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Prompt Engineering",
+      "AI Agents",
+      "Generative AI",
+      "Python"
+    ],
+    "missing_skills": []
+  }
+]

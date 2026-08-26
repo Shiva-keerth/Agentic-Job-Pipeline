@@ -1,0 +1,237 @@
+[
+  {
+    "title": "AI Agent Developer (Full Stack)",
+    "company": "Ariedge",
+    "url": "https://in.linkedin.com/jobs/view/ai-agent-developer-full-stack-at-ariedge-4452922739",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The JD lacks any experience threshold, and the candidate's AI agent, backend (FastAPI, Docker, AWS), and front‑end (Streamlit) expertise align closely with the role's responsibilities. No hard requirements are unmet, resulting in a strong fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "LangChain",
+      "LangGraph",
+      "ReAct agents",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "LLM integration (Llama-3.3-70B)",
+      "Streamlit",
+      "Python 3.10+",
+      "Prompt Engineering",
+      "Agentic AI"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!"
+  },
+  {
+    "title": "AI Engineer – Paid Internship",
+    "company": "Workspeak",
+    "url": "https://in.linkedin.com/jobs/view/ai-engineer-%E2%80%93-paid-internship-at-workspeak-4452903255",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The candidate’s extensive work with LLMs, prompt engineering, Python backend, Docker/AWS deployment, and audio transcription aligns tightly with the internship’s core tasks. No hard requirements are unmet, making this a strong fit for the role.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "LLM APIs (Groq, Llama-3.3)",
+      "Prompt Engineering",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "Audio/voice models (Groq Whisper)",
+      "Evaluation pipelines (RAG pipelines, LangChain)",
+      "Structured outputs (Pydantic)"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!"
+  },
+  {
+    "title": "Prompt Engineer",
+    "company": "Streevia",
+    "url": "https://in.linkedin.com/jobs/view/prompt-engineer-at-streevia-4450487812",
+    "score": 84,
+    "verdict": "Strong Match",
+    "reason": "The candidate possesses solid prompt engineering, Python, and LLM/API experience that aligns with the core duties. The only gap is specific platform exposure (Claude/GPT/Gemini), which is minor for an entry‑level role.",
+    "experience_required": "Fresher / entry‑level (no years of experience specified)",
+    "matched_skills": [
+      "Prompt Engineering",
+      "Python",
+      "LLM knowledge",
+      "API integration (Groq API)",
+      "FastAPI",
+      "Retrieval Augmented Generation"
+    ],
+    "missing_skills": [
+      "Hands‑on experience with Claude/GPT/Gemini platforms",
+      "JavaScript (optional)"
+    ],
+    "apply_decision": "SKIP",
+    "apply_reason": "Core skill gaps: java"
+  },
+  {
+    "title": "Full-Stack Software Engineer I AI-Native Development",
+    "company": "Babaclick",
+    "url": "https://in.linkedin.com/jobs/view/full-stack-software-engineer-i-ai-native-development-at-babaclick-4452918573",
+    "score": 78,
+    "verdict": "Good Fit",
+    "reason": "The JD does not state a minimum years‑of‑experience requirement, so the candidate proceeds. Their strong background in AI‑native development, backend APIs, Docker, AWS, and data/knowledge‑graph pipelines aligns well with Babaclick's needs for AI‑assisted product and workflow automation. No critical hard requirements are missing, making this a good fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "AI/LLM development",
+      "Retrieval Augmented Generation",
+      "Vector databases (ChromaDB, FAISS)",
+      "Knowledge Graphs (Neo4j)",
+      "API integration",
+      "Workflow automation"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!"
+  },
+  {
+    "title": "AI/ML Engineer",
+    "company": "Scoutit India",
+    "url": "https://in.linkedin.com/jobs/view/ai-ml-engineer-at-scoutit-india-4452956557",
+    "score": 75,
+    "verdict": "Good Fit",
+    "reason": "The candidate’s skill set aligns closely with the core requirements—Python, LangChain/LangGraph, RAG, Docker, and API development—demonstrating strong readiness for the role. Missing only secondary items like Git, CI/CD, and formal testing practices, the profile is a good fit for an entry‑level AI/ML Engineer position.",
+    "experience_required": "Not specified (entry-level)",
+    "matched_skills": [
+      "Python",
+      "LangChain",
+      "LangGraph",
+      "RAG",
+      "Docker",
+      "FastAPI (REST API)",
+      "Prompt Engineering",
+      "Vector databases (ChromaDB, FAISS)",
+      "Agentic AI",
+      "Full‑Stack development (FastAPI + Streamlit)"
+    ],
+    "missing_skills": [
+      "Git",
+      "CI/CD pipelines",
+      "Testing/observability practices"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Only tool gaps (learnable): ci/cd"
+  },
+  {
+    "title": "Associate AI Engineer — Graduate Program",
+    "company": "WealthNest.AI",
+    "url": "https://in.linkedin.com/jobs/view/associate-ai-engineer-%E2%80%94-graduate-program-at-wealthnest-ai-4452987829",
+    "score": 75,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets all core requirements: Python, LangChain/LangGraph, RAG pipeline building, FastAPI, and Git proficiency. The only gap is specific PDF extraction tooling, which is a hard requirement but can be learned quickly. Overall, the profile aligns well for an entry-level AI engineer role.",
+    "experience_required": "Fresh graduate or final year student",
+    "matched_skills": [
+      "Python",
+      "LangChain",
+      "LangGraph",
+      "FastAPI",
+      "RAG pipelines",
+      "Git"
+    ],
+    "missing_skills": [
+      "PDF extraction (pdfplumber/PyMuPDF)"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills appear to be optional tools, not core blockers"
+  },
+  {
+    "title": "Software Engineer I",
+    "company": "Thermo Fisher Scientific",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-i-at-thermo-fisher-scientific-4450447977",
+    "score": 75,
+    "verdict": "Good Fit",
+    "reason": "The JD seeks an entry-level software engineer with strong Python and cloud development skills. The candidate meets the education requirement, has solid Python experience, and has worked with AWS and Docker, aligning well with the role. While their focus is generative AI, the core software engineering competencies are present.",
+    "experience_required": "No prior experience required (entry-level)",
+    "matched_skills": [
+      "Python",
+      "AWS EC2",
+      "Docker",
+      "FastAPI",
+      "Software Development"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!"
+  },
+  {
+    "title": "Associate AI Full Stack Developer",
+    "company": "Digimaxx AI Solutions",
+    "url": "https://in.linkedin.com/jobs/view/associate-ai-full-stack-developer-at-digimaxx-ai-solutions-4452912518",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets most backend and AI integration requirements, but lacks explicit frontend development experience, which is a key part of the full‑stack role. Overall alignment is strong enough for a good fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "LLMs (Llama-3.3, Groq)",
+      "RAG pipelines",
+      "Agentic AI / ReAct agents",
+      "Python 3.10+",
+      "Vector databases (ChromaDB, FAISS)",
+      "REST API development"
+    ],
+    "missing_skills": [
+      "Modern frontend frameworks (React/Angular/Vue)",
+      "JavaScript/HTML/CSS for UI development",
+      "Frontend build tools (Webpack, Vite, etc.)"
+    ],
+    "apply_decision": "SKIP",
+    "apply_reason": "Core skill gaps: java"
+  },
+  {
+    "title": "AES - DE - Generative AI Prompt Engineers",
+    "company": "Zensar Technologies",
+    "url": "https://in.linkedin.com/jobs/view/aes-de-generative-ai-prompt-engineers-at-zensar-technologies-4450453145",
+    "score": 66,
+    "verdict": "Good Fit",
+    "reason": "The candidate has strong experience building AI agents, multi‑agent systems, and end‑to‑end generative AI pipelines, which aligns with the role's core responsibilities. However, they lack direct experience with Microsoft Copilot Studio, a key tool for the position, limiting the overall fit.",
+    "experience_required": "Not specified (Entry level)",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "LangChain",
+      "LangGraph",
+      "ReAct agents",
+      "Multi-agent systems",
+      "Prompt Engineering"
+    ],
+    "missing_skills": [
+      "Microsoft Copilot Studio"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills appear to be optional tools, not core blockers"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Namo Cloud Solutions Inc",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-at-namo-cloud-solutions-inc-4451941851",
+    "score": 65,
+    "verdict": "Good Fit",
+    "reason": "The JD seeks an entry‑level software engineer with solid OOP and backend development skills. The candidate's Python, FastAPI, Docker, and AWS experience align well, though the role lacks AI‑specific focus. Overall fit is good for an early‑career position.",
+    "experience_required": "Not specified (entry-level/fresher)",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "Object-Oriented Programming"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!"
+  }
+]

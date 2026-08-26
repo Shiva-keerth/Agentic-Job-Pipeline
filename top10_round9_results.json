@@ -1,0 +1,255 @@
+[
+  {
+    "title": "Software Engineering Intern",
+    "company": "Freight Tiger",
+    "url": "https://in.linkedin.com/jobs/view/software-engineering-intern-at-freight-tiger-4451856817",
+    "score": 86,
+    "verdict": "Strong Match",
+    "reason": "The candidate possesses extensive experience with agentic AI, LangChain, RAG workflows, and production‑grade Python development, directly aligning with the internship's core responsibilities. While lacking exposure to streaming tools like Kafka, Airflow, or Spark, these are listed as optional, resulting in a strong overall fit.",
+    "experience_required": "Entry-level / recent graduate (no years specified)",
+    "matched_skills": [
+      "LangChain",
+      "LangGraph",
+      "ReAct agents",
+      "RAG pipelines",
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "Neo4j",
+      "Vector databases",
+      "Prompt Engineering",
+      "Multi-agent systems",
+      "Knowledge Graphs"
+    ],
+    "missing_skills": [
+      "Kafka",
+      "Airflow",
+      "Spark"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Only tool gaps (learnable): kafka, spark"
+  },
+  {
+    "title": "Python Developer",
+    "company": "XLSCOUT",
+    "url": "https://in.linkedin.com/jobs/view/python-developer-at-xlscout-4453062503",
+    "score": 78,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets core Python, API, cloud, and containerization requirements, aligning well with the role. Lacks explicit mention of unit testing and CI/CD, keeping the fit strong but not perfect.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "Database integration (SQLite, Neo4j)"
+    ],
+    "missing_skills": [
+      "Explicit unit testing frameworks (e.g., pytest)",
+      "CI/CD pipeline experience"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills appear to be optional tools, not core blockers"
+  },
+  {
+    "title": "AI / GenAI Developer",
+    "company": "Rudocode",
+    "url": "https://in.linkedin.com/jobs/view/ai-genai-developer-at-rudocode-4451934641",
+    "score": 75,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets the core Python, GenAI, RAG, vector DB, and agentic workflow requirements, aligning well with the role. Lacking specific experience with OpenAI/Gemini/Claude APIs and business system integrations keeps the fit from being a strong match, but overall suitability is solid for an entry‑level position.",
+    "experience_required": "0-1 Years",
+    "matched_skills": [
+      "Python",
+      "Prompt Engineering",
+      "RAG (Retrieval Augmented Generation)",
+      "Vector databases (ChromaDB, FAISS)",
+      "AI agents / Multi‑agent systems (LangGraph, ReAct)",
+      "FastAPI (REST API development)",
+      "Docker",
+      "AWS EC2"
+    ],
+    "missing_skills": [
+      "OpenAI / Gemini / Claude LLM API experience",
+      "CRM/ERP/WhatsApp integration experience",
+      "Webhooks / third‑party integration experience"
+    ],
+    "apply_decision": "SKIP",
+    "apply_reason": "Core skill gaps: sap, erp"
+  },
+  {
+    "title": "AI Product Engineer (Freshers & Experienced) Internship in Bangalore",
+    "company": "Rooman Technologies",
+    "url": "https://in.linkedin.com/jobs/view/ai-product-engineer-freshers-experienced-internship-in-bangalore-at-rooman-technologies-4453009617",
+    "score": 72,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets all core backend and AI requirements, including FastAPI, Docker, AWS, vector DBs, and RAG/agent development. The only gaps are frontend frameworks, explicit relational DB experience, and CI/CD pipelines, leading to a solid but not perfect fit.",
+    "experience_required": "Not specified (Freshers & Experienced)",
+    "matched_skills": [
+      "Python (FastAPI)",
+      "Docker",
+      "AWS (EC2)",
+      "Vector databases (ChromaDB, FAISS)",
+      "RAG pipelines",
+      "AI Agents / Multi‑agent systems (LangGraph, ReAct)",
+      "LLM integration (Llama, Groq API)",
+      "REST API development"
+    ],
+    "missing_skills": [
+      "React.js / Angular (frontend)",
+      "PostgreSQL / MySQL",
+      "CI/CD pipeline tooling"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Only tool gaps (learnable): react, angular"
+  },
+  {
+    "title": "Technical Specialist-gen ai",
+    "company": "Birlasoft",
+    "url": "https://in.linkedin.com/jobs/view/technical-specialist-gen-ai-at-birlasoft-4451669515",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The candidate has strong expertise in building multi‑agent, RAG‑based AI solutions and deployment tooling, matching most core responsibilities. However, they lack direct experience with the specific Aisera and ServiceNow ITSM platforms required by the role.",
+    "experience_required": "Entry level / not specified",
+    "matched_skills": [
+      "LangChain",
+      "LangGraph",
+      "ReAct agents",
+      "Multi-agent systems",
+      "Agentic AI",
+      "RAG pipelines",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "Python",
+      "Vector databases (ChromaDB, FAISS)",
+      "Tool integration via APIs"
+    ],
+    "missing_skills": [
+      "Aisera platform experience",
+      "ServiceNow AI / ITSM platform integration",
+      "CRM integration experience"
+    ],
+    "apply_decision": "SKIP",
+    "apply_reason": "Core skill gaps: itsm, servicenow"
+  },
+  {
+    "title": "Software Engineer (Backend)",
+    "company": "SHIELD",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-backend-at-shield-4442606039",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The candidate demonstrates solid backend, cloud, and containerization experience aligning with the role, but lacks Go proficiency, the core language required for the position.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "Python",
+      "Backend Development",
+      "Agile methodology"
+    ],
+    "missing_skills": [
+      "Go"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills appear to be optional tools, not core blockers"
+  },
+  {
+    "title": "Associate Software Engineer",
+    "company": "SHRIRAM GENERAL INSURANCE CO. LTD.",
+    "url": "https://in.linkedin.com/jobs/view/associate-software-engineer-at-shriram-general-insurance-co-ltd-4452440004",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets core software development requirements (Python, FastAPI, Docker, AWS, API integration) and has relevant project experience. Missing some typical enterprise stack languages and CI/CD tools, but overall aligns well with the entry-level associate role.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "APIs",
+      "Databases",
+      "Software Development",
+      "Version Control",
+      "Testing",
+      "Debugging"
+    ],
+    "missing_skills": [
+      "Java",
+      "C#",
+      "Front-end frameworks (e.g., React/Angular)",
+      "CI/CD pipelines"
+    ],
+    "apply_decision": "SKIP",
+    "apply_reason": "Core skill gaps: java, c#"
+  },
+  {
+    "title": "Java Gen AI Engineer",
+    "company": "Jobgether",
+    "url": "https://in.linkedin.com/jobs/view/java-gen-ai-engineer-at-jobgether-4451669687",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The candidate has strong Generative AI, LLM, and agentic workflow experience and is familiar with cloud (AWS) and production deployment (Docker, FastAPI). The only critical gap is the lack of Java expertise, which is a hard requirement for the role.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Generative AI",
+      "LLM",
+      "Agentic AI",
+      "AWS",
+      "Docker",
+      "FastAPI"
+    ],
+    "missing_skills": [
+      "Java"
+    ],
+    "apply_decision": "SKIP",
+    "apply_reason": "Core skill gaps: java"
+  },
+  {
+    "title": "AI Agent Engineer",
+    "company": "Automation Builders.ai",
+    "url": "https://in.linkedin.com/jobs/view/ai-agent-engineer-at-automation-builders-ai-4452307251",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The candidate has strong experience building AI agents, multi‑agent systems, and deploying with Docker/AWS, aligning well with the role's core responsibilities. However, they lack direct experience with the specific platforms n8n and Nous Hermes, as well as common client stack integrations, leading to a good but not perfect fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "Docker",
+      "AWS EC2",
+      "FastAPI",
+      "Multi-agent systems",
+      "Agentic AI",
+      "LLM integration",
+      "RAG pipelines",
+      "Vector databases"
+    ],
+    "missing_skills": [
+      "n8n workflow automation",
+      "Nous Hermes framework",
+      "Microsoft 365 / Google Workspace / CRM integrations"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills appear to be optional tools, not core blockers"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Swish",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-at-swish-4451115558",
+    "score": 65,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets the 1+ year experience requirement and possesses relevant backend skills (Python, Docker, AWS, FastAPI). While the JD is generic and lacks specific tech demands, the candidate's AI-focused expertise is not directly required but does not hinder suitability.",
+    "experience_required": "1+ years of experience in software development",
+    "matched_skills": [
+      "Python",
+      "Docker",
+      "AWS",
+      "FastAPI"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!"
+  }
+]

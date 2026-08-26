@@ -1,0 +1,236 @@
+[
+  {
+    "title": "Forward Deployed Engineer - Software Engineer - India",
+    "company": "ElevenLabs",
+    "url": "https://in.linkedin.com/jobs/view/forward-deployed-engineer-software-engineer-india-at-elevenlabs-4442576413",
+    "score": 88,
+    "verdict": "Strong Match",
+    "reason": "The JD does not state any minimum years of experience, allowing a fresh graduate to apply. Shiva's extensive AI/LLM, Python, FastAPI, Docker, and AWS experience aligns closely with ElevenLabs' focus on AI audio models and scalable deployment, making him a strong candidate.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "LLM inference (Llama-3.3, Groq)",
+      "Prompt Engineering",
+      "Retrieval Augmented Generation",
+      "Voice/Audio processing (Groq Whisper)",
+      "API development"
+    ],
+    "missing_skills": []
+  },
+  {
+    "title": "Artificial Intelligence Engineer",
+    "company": "Vahan.ai",
+    "url": "https://in.linkedin.com/jobs/view/artificial-intelligence-engineer-at-vahan-ai-4451396851",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The JD lacks explicit experience years, so the candidate passes the mandatory check. Their AI, voice (Whisper), multi‑agent, and cloud deployment expertise aligns well with the role's focus on voice/WhatsApp agents and end‑to‑end system ownership. Minor gaps like WhatsApp integration and regional language handling are acceptable, yielding a strong match.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "LLM inference (Llama-3.3-70B)",
+      "Whisper (speech-to-text)",
+      "Multi‑agent systems",
+      "LangChain / LangGraph",
+      "RAG pipelines",
+      "Vector databases (FAISS, ChromaDB)"
+    ],
+    "missing_skills": [
+      "WhatsApp API integration",
+      "Hindi/Hinglish language processing",
+      "Low‑end Android optimization"
+    ]
+  },
+  {
+    "title": "Prompt Engineer, Multi-Agent Systems",
+    "company": "Fello",
+    "url": "https://in.linkedin.com/jobs/view/prompt-engineer-multi-agent-systems-at-fello-4451193546",
+    "score": 78,
+    "verdict": "Good Fit",
+    "reason": "The candidate possesses strong prompt engineering and multi‑agent system expertise, plus production deployment skills, aligning well with the core JD. Lack of domain‑specific marketing automation and real‑estate experience keeps the fit solid but not exceptional.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Prompt Engineering",
+      "Multi-agent systems",
+      "Agentic AI",
+      "LangGraph ReAct agents",
+      "Docker",
+      "AWS EC2",
+      "Python",
+      "Evaluation / regression testing (APScheduler)"
+    ],
+    "missing_skills": [
+      "Marketing automation experience",
+      "Real estate domain knowledge",
+      "Conversational AI platform integration (e.g., Twilio, SMS/email orchestration)"
+    ]
+  },
+  {
+    "title": "Jr Cloud Engineer",
+    "company": "Brillius Technologies",
+    "url": "https://in.linkedin.com/jobs/view/jr-cloud-engineer-at-brillius-technologies-4448084263",
+    "score": 75,
+    "verdict": "Good Fit",
+    "reason": "The candidate's expertise in generative AI, Python, FastAPI, Docker, and AWS aligns well with the junior AI Engineer responsibilities. While lacking explicit deep‑learning framework experience and container orchestration, the overall skill overlap is solid for an entry‑level role.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "Generative AI",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "Machine Learning",
+      "Deep Learning",
+      "Data pipelines"
+    ],
+    "missing_skills": [
+      "TensorFlow/PyTorch",
+      "Kubernetes",
+      "CI/CD pipelines"
+    ]
+  },
+  {
+    "title": "AI Engineer",
+    "company": "HuntingCube",
+    "url": "https://in.linkedin.com/jobs/view/ai-engineer-at-huntingcube-4451351122",
+    "score": 72,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets most core requirements (Python, LangChain, LangGraph, FastAPI, Pydantic, LLM experience) but lacks LlamaIndex, Celery, and explicit async expertise, leading to a solid but not perfect fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "LangChain",
+      "LangGraph",
+      "FastAPI",
+      "Pydantic",
+      "Llama-3 (LLM)"
+    ],
+    "missing_skills": [
+      "LlamaIndex",
+      "Celery",
+      "Asynchronous programming (asyncio)"
+    ]
+  },
+  {
+    "title": "Artificial Intelligence Engineer",
+    "company": "AICines.ai",
+    "url": "https://in.linkedin.com/jobs/view/artificial-intelligence-engineer-at-aicines-ai-4451410794",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The candidate has strong AI engineering, generative LLM, and deployment experience matching the role's core needs, but lacks explicit video generation and computer vision expertise required for the platform's media focus.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "LLM fine-tuning",
+      "Prompt Engineering",
+      "Generative AI",
+      "Model training & evaluation",
+      "Research & prototyping"
+    ],
+    "missing_skills": [
+      "Video generation models",
+      "Computer vision / deep learning frameworks (e.g., PyTorch, TensorFlow)",
+      "Media editing pipeline experience"
+    ]
+  },
+  {
+    "title": "We’re Hiring: Fresher Java & AI/ML Developer",
+    "company": "Clobrix Technologies",
+    "url": "https://in.linkedin.com/jobs/view/we%E2%80%99re-hiring-fresher-java-ai-ml-developer-at-clobrix-technologies-4449529578",
+    "score": 68,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets the entry‑level experience requirement and possesses strong Python and generative AI expertise, aligning with the AI/ML track. Missing basic ML libraries (NumPy, Pandas, Scikit-learn) are the only hard gaps, keeping the fit solid but not perfect.",
+    "experience_required": "0–1 year (Freshers)",
+    "matched_skills": [
+      "Python",
+      "AI/ML concepts",
+      "Generative AI / LLMs",
+      "Git (implied)",
+      "Problem solving"
+    ],
+    "missing_skills": [
+      "NumPy",
+      "Pandas",
+      "Scikit-learn"
+    ]
+  },
+  {
+    "title": "Data Scientist",
+    "company": "kipi.ai",
+    "url": "https://in.linkedin.com/jobs/view/data-scientist-at-kipi-ai-4451195844",
+    "score": 68,
+    "verdict": "Good Fit",
+    "reason": "The candidate’s expertise in LLMs, RAG, prompt engineering, and production‑grade AI pipelines aligns well with the role’s core responsibilities. However, the lack of Snowflake experience—a central technology for kipi.ai—creates a notable gap, resulting in a good but not strong match.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "LLM (Llama, Groq)",
+      "Prompt Engineering",
+      "Retrieval Augmented Generation (RAG)",
+      "Agentic AI / Multi‑agent systems",
+      "Data pipeline development"
+    ],
+    "missing_skills": [
+      "Snowflake platform experience",
+      "Snowflake‑specific data pipelines and deployment"
+    ]
+  },
+  {
+    "title": "Gen AI Developer",
+    "company": "UST",
+    "url": "https://in.linkedin.com/jobs/view/gen-ai-developer-at-ust-4449541785",
+    "score": 65,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets core GenAI, LLM, RAG, and Python API skills required, but lacks the specific enterprise automation tools (Power Platform, ServiceNow) and explicit Git experience. Overall alignment is solid for a junior role, making it a good fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "GenAI/LLM",
+      "RAG",
+      "AI Agents",
+      "Prompt Engineering",
+      "SQL/Databases (SQLite, Supabase)",
+      "Docker",
+      "FastAPI"
+    ],
+    "missing_skills": [
+      "Power Platform (Power Automate, Power Apps, Copilot Studio)",
+      "ServiceNow",
+      "Git"
+    ]
+  },
+  {
+    "title": "Product Engineer (Up to 35LPA)",
+    "company": "CodeRound AI",
+    "url": "https://in.linkedin.com/jobs/view/product-engineer-up-to-35lpa-at-coderound-ai-4451508595",
+    "score": 65,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets the 1+ year experience requirement and possesses strong Python, FastAPI, Docker, and AWS skills needed for building and shipping production software. While lacking explicit Java/Kubernetes experience, the overall skill set aligns well with the product engineering focus.",
+    "experience_required": "1+ years of experience",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "Production software deployment",
+      "Software engineering fundamentals",
+      "Production-grade APIs"
+    ],
+    "missing_skills": [
+      "Java/Scala",
+      "Kubernetes",
+      "CI/CD pipelines"
+    ]
+  }
+]

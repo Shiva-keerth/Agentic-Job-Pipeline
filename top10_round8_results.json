@@ -1,0 +1,225 @@
+[
+  {
+    "title": "Research Analyst (Remote)",
+    "company": "Hire Feed",
+    "url": "https://in.linkedin.com/jobs/view/research-analyst-remote-at-hire-feed-4452417017",
+    "score": 78,
+    "verdict": "Good Fit",
+    "reason": "The candidate possesses strong LLM, prompt engineering, and research automation experience aligning with the role's focus on fine‑tuning models and content analysis. The only gap is a demonstrated advanced math background, but overall skill overlap is solid, making this a good fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "LLM fine-tuning",
+      "Prompt Engineering",
+      "Retrieval Augmented Generation",
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS",
+      "Research (web scraping, Playwright, BeautifulSoup)",
+      "Analytical/problem‑solving mindset"
+    ],
+    "missing_skills": [
+      "Explicit advanced mathematics background"
+    ]
+  },
+  {
+    "title": "ASSOCIATE DATA SCIENTIST",
+    "company": "McCormick Flavor Solutions",
+    "url": "https://in.linkedin.com/jobs/view/associate-data-scientist-at-mccormick-flavor-solutions-4451924584",
+    "score": 72,
+    "verdict": "Good Fit",
+    "reason": "The JD does not state a minimum experience requirement, and the candidate's Python and ML background aligns well with the data science focus. While the candidate lacks explicit BI tool experience, overall skill overlap is strong enough for a good fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "Machine Learning",
+      "Data Analysis",
+      "Data Visualization",
+      "AI / Predictive Modeling"
+    ],
+    "missing_skills": [
+      "Tableau/PowerBI",
+      "Statistical modeling (R)"
+    ]
+  },
+  {
+    "title": "Associate Data Scientist",
+    "company": "Gartner",
+    "url": "https://in.linkedin.com/jobs/view/associate-data-scientist-at-gartner-4449803790",
+    "score": 72,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets core JD requirements in Python, LLM/NLP, and generative AI, aligning well with text analytics needs. Lacks traditional data science tools and visualization platforms, placing them as a good but not top-tier match.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "NLP",
+      "LLMs",
+      "Generative AI",
+      "Prompt Engineering",
+      "Retrieval Augmented Generation",
+      "Streamlit",
+      "FastAPI"
+    ],
+    "missing_skills": [
+      "pandas",
+      "scikit-learn",
+      "Statistical analysis",
+      "Data visualization tools (e.g., Tableau, PowerBI)"
+    ]
+  },
+  {
+    "title": "AI/ML Engineer",
+    "company": "BayOne Solutions",
+    "url": "https://in.linkedin.com/jobs/view/ai-ml-engineer-at-bayone-solutions-4452335443",
+    "score": 72,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets core requirements: strong Python expertise, LLM work, embeddings, and production deployment experience. They lack explicit experience with classical ML tools XGBoost and SVM, but overall skill overlap is solid, making them a good fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "Prompt Engineering",
+      "LLM fine-tuning",
+      "Embeddings",
+      "Docker",
+      "AWS EC2",
+      "FastAPI"
+    ],
+    "missing_skills": [
+      "XGBoost",
+      "SVM"
+    ]
+  },
+  {
+    "title": "Data Scientist - Python (Remote)",
+    "company": "Hire Feed",
+    "url": "https://in.linkedin.com/jobs/view/data-scientist-python-remote-at-hire-feed-4452416004",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets core Python and ML requirements and has experience fine-tuning LLMs and building datasets, aligning well with most responsibilities. The only notable gap is explicit RLHF experience, keeping the fit solid but not exceptional.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "Machine Learning",
+      "Model fine-tuning",
+      "Data analysis",
+      "Dataset creation",
+      "Model evaluation"
+    ],
+    "missing_skills": [
+      "Reinforcement Learning with Human Feedback (RLHF)"
+    ]
+  },
+  {
+    "title": "Applied Scientist I, Ads Trust",
+    "company": "Amazon",
+    "url": "https://in.linkedin.com/jobs/view/applied-scientist-i-ads-trust-at-amazon-4443021666",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets core requirements in Python, ML/DL, and production deployment using Docker and AWS, aligning well with the role's technical needs. Gaps include lack of Java/C++ experience, Oracle-specific SQL expertise, and computer-vision background, keeping the fit solid but not perfect.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Deep Learning",
+      "Docker",
+      "AWS",
+      "FastAPI",
+      "Model Deployment"
+    ],
+    "missing_skills": [
+      "Java",
+      "C++",
+      "Oracle (RDBMS)",
+      "Computer Vision"
+    ]
+  },
+  {
+    "title": "ASSOCIATE DATA SCIENTIST",
+    "company": "McCormick & Company",
+    "url": "https://in.linkedin.com/jobs/view/associate-data-scientist-at-mccormick-company-4451914062",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets core requirements like Python, data mining, cleaning, and AI modeling, and has cloud/Docker experience. The main gaps are visualization tools and R-based statistical modeling, keeping the fit solid but not perfect.",
+    "experience_required": "Not specified (entry-level)",
+    "matched_skills": [
+      "Python",
+      "Data Mining",
+      "Data Cleaning",
+      "Predictive Modeling",
+      "Machine Learning",
+      "AWS",
+      "Docker"
+    ],
+    "missing_skills": [
+      "Data Visualization tools (e.g., Tableau, PowerBI)",
+      "Statistical modeling in R"
+    ]
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "SPG Consulting",
+    "url": "https://in.linkedin.com/jobs/view/machine-learning-engineer-at-spg-consulting-4449805141",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "Candidate has strong AI/LLM and agentic system experience matching core JD requirements, but lacks domain-specific infrastructure monitoring and automation expertise, leading to a good but not perfect fit.",
+    "experience_required": "Not specified (implied experienced but no years)",
+    "matched_skills": [
+      "Python",
+      "LLMs",
+      "RAG",
+      "Agentic AI",
+      "Multi-agent systems",
+      "Prompt Engineering",
+      "Docker",
+      "AWS",
+      "FastAPI"
+    ],
+    "missing_skills": [
+      "Infrastructure monitoring & observability integration",
+      "ITSM integration",
+      "Anomaly detection models",
+      "Predictive analytics for compute/virtualization/storage",
+      "Self-healing automation workflows"
+    ]
+  },
+  {
+    "title": "AI / ML Data Scientist I",
+    "company": "Nielsen",
+    "url": "https://in.linkedin.com/jobs/view/ai-ml-data-scientist-i-at-nielsen-4451443656",
+    "score": 68,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets most core requirements such as Python, cloud, Docker, and ML engineering, but lacks explicit experience in sampling analytics and statistical modeling, which are key hard requirements for the role.",
+    "experience_required": "Not specified (entry-level implied)",
+    "matched_skills": [
+      "Python",
+      "Docker",
+      "AWS EC2",
+      "FastAPI",
+      "Machine Learning",
+      "Data Engineering",
+      "Cloud deployment",
+      "Software development best practices"
+    ],
+    "missing_skills": [
+      "Sampling Analytics",
+      "Statistical modeling",
+      "Traditional data science libraries (e.g., scikit-learn, pandas) explicitly mentioned"
+    ]
+  },
+  {
+    "title": "Technical Writer & Researcher",
+    "company": "Brainware University",
+    "url": "https://in.linkedin.com/jobs/view/technical-writer-researcher-at-brainware-university-4452412900",
+    "score": 62,
+    "verdict": "Good Fit",
+    "reason": "The JD does not demand any years of experience, so the candidate passes the mandatory check. Their AI expertise and Python background align with the role's need for AI tool proficiency, but the position emphasizes research writing rather than deep engineering, leading to a moderate overall fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Artificial Intelligence",
+      "AI tools",
+      "Python"
+    ],
+    "missing_skills": []
+  }
+]

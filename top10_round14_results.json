@@ -1,0 +1,242 @@
+[
+  {
+    "title": "Gen AI Engineer Intern",
+    "company": "Setoo",
+    "url": "https://in.linkedin.com/jobs/view/gen-ai-engineer-intern-at-setoo-4454259264",
+    "score": 88,
+    "verdict": "Strong Match",
+    "reason": "The candidate's experience with LangChain, RAG, ChromaDB, LLMs, and API integration aligns tightly with the internship requirements. Minor gaps like AsyncIO and alternative vector stores are not deal‑breakers, making this a strong fit.",
+    "experience_required": "Not specified (entry‑level internship)",
+    "matched_skills": [
+      "LangChain",
+      "Python",
+      "RAG pipelines",
+      "ChromaDB",
+      "Prompt Engineering",
+      "LLM integration",
+      "FastAPI",
+      "Docker",
+      "AWS"
+    ],
+    "missing_skills": [
+      "AsyncIO",
+      "Weaviate or Pinecone",
+      "LlamaIndex/AutoGPT"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Only tool gaps (learnable): llamaindex",
+    "is_external_apply": false
+  },
+  {
+    "title": "Junior Software Engineer",
+    "company": "HRK Global TechSolutions Pvt. Ltd.",
+    "url": "https://in.linkedin.com/jobs/view/junior-software-engineer-at-hrk-global-techsolutions-pvt-ltd-4454260014",
+    "score": 88,
+    "verdict": "Strong Match",
+    "reason": "The JD does not demand any minimum years of experience, and the candidate’s core backend skills (Python, FastAPI, Docker, AWS) align directly with the role’s responsibilities. With strong exposure to API integration, testing, and agile practices, the candidate is an excellent fit for a junior engineering position.",
+    "experience_required": "Not specified (entry-level implied)",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "RESTful API development",
+      "Agile methodologies",
+      "Unit testing (implied)"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "AI Engineer",
+    "company": "Meraki Labs",
+    "url": "https://in.linkedin.com/jobs/view/ai-engineer-at-meraki-labs-4455280875",
+    "score": 86,
+    "verdict": "Strong Match",
+    "reason": "The JD seeks an AI Engineer to build agentic tutoring workflows and ship production‑grade systems. Shiva's experience with LangChain, LangGraph, multi‑agent architectures, FastAPI, Docker, and AWS directly aligns with those needs, and no hard technical requirements are absent. Strong overlap makes this a high‑priority application.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "LangChain",
+      "LangGraph",
+      "Agentic AI",
+      "Multi-agent systems",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "LLM inference (Llama-3.3-70B)",
+      "RAG pipelines",
+      "Prompt Engineering"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "Machine Learning Engineer, Evaluation",
+    "company": "HackerRank",
+    "url": "https://in.linkedin.com/jobs/view/machine-learning-engineer-evaluation-at-hackerrank-4398897010",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The JD does not state any minimum experience, so the candidate passes the mandatory check. Their strong background in Python, LLM orchestration, agentic AI, and cloud deployment aligns well with HackerRank's need to build AI‑driven evaluation tools. While they lack explicit assessment‑platform experience, the overall skill overlap is high, warranting a strong match.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS",
+      "Large Language Models (LLMs)",
+      "Agentic AI / Multi‑agent systems",
+      "LangChain / LangGraph",
+      "Retrieval Augmented Generation"
+    ],
+    "missing_skills": [
+      "Direct experience with coding assessment platforms",
+      "Design of AI‑assisted evaluation metrics"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills appear to be optional tools, not core blockers",
+    "is_external_apply": false
+  },
+  {
+    "title": "Remote LLM Agentic Trainer - Programmer",
+    "company": "Turing",
+    "url": "https://in.linkedin.com/jobs/view/remote-llm-agentic-trainer-programmer-at-turing-4454242787",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The JD requires Python proficiency and SQL knowledge, both present in the candidate’s skill set. Their background in LLM pipelines, agentic AI, and data engineering aligns closely with the role’s focus on training data validation.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "SQL (SQLite, Supabase)",
+      "JSON handling (FastAPI, Pydantic)"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "Prompt Engineer",
+    "company": "Equal",
+    "url": "https://in.linkedin.com/jobs/view/prompt-engineer-at-equal-4454871831",
+    "score": 82,
+    "verdict": "Strong Match",
+    "reason": "The candidate demonstrates solid prompt engineering expertise, LLM fine‑tuning, and hands‑on experience with voice AI and production deployment—core needs of the role. No hard requirements are missing, and the profile aligns well with the innovative, early‑stage nature of the position.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Prompt Engineering",
+      "LLM fine-tuning",
+      "Voice AI (Whisper)",
+      "Production deployment (Docker, AWS)"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "AI Intern - Systems & Implementation",
+    "company": "Stance Health",
+    "url": "https://in.linkedin.com/jobs/view/ai-intern-systems-implementation-at-stance-health-4452236225",
+    "score": 78,
+    "verdict": "Good Fit",
+    "reason": "The candidate strongly matches the core Python and FastAPI backend requirements and has extensive experience with LLM agents, RAG pipelines, and prompt engineering. The only gaps are Node.js and MongoDB, which are not critical enough to disqualify but keep the fit in the good range.",
+    "experience_required": "Not specified (entry-level internship)",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "LLM integrations",
+      "RAG pipelines",
+      "Prompt Engineering",
+      "Agentic AI",
+      "Docker",
+      "AWS EC2"
+    ],
+    "missing_skills": [
+      "Node.js",
+      "MongoDB"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Only tool gaps (learnable): node.js",
+    "is_external_apply": false
+  },
+  {
+    "title": "Python Developer Intern",
+    "company": "Tasks Expert",
+    "url": "https://in.linkedin.com/jobs/view/python-developer-intern-at-tasks-expert-4452269806",
+    "score": 75,
+    "verdict": "Good Fit",
+    "reason": "The candidate satisfies core Python, FastAPI, AWS, Docker, and web‑scraping requirements, aligning well with the intern role. Missing Pandas and explicit Requests experience are minor gaps, making this a good fit for an entry‑level position.",
+    "experience_required": "Not specified (entry-level/fresher)",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "AWS",
+      "Docker",
+      "BeautifulSoup4",
+      "SQLite",
+      "Git"
+    ],
+    "missing_skills": [
+      "Pandas",
+      "Requests"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills appear to be optional tools, not core blockers",
+    "is_external_apply": false
+  },
+  {
+    "title": "Forward Deployed Engineer",
+    "company": "CallKaro.AI",
+    "url": "https://in.linkedin.com/jobs/view/forward-deployed-engineer-at-callkaro-ai-4454212701",
+    "score": 73,
+    "verdict": "Good Fit",
+    "reason": "The candidate’s AI engineering stack (Python, FastAPI, Docker, AWS, voice‑AI with Whisper, LLM inference) aligns well with the FDE role’s focus on building and deploying Voice AI agents. The JD does not list strict technical requirements, and the only gaps are specific telephony integration experience, which can be learned on the job.",
+    "experience_required": "Not specified (internship with no years of experience required)",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "Groq Whisper (speech‑to‑text)",
+      "LLM inference (Llama‑3.3‑70B)",
+      "LangChain / LangGraph",
+      "RAG pipelines",
+      "Agentic AI / multi‑agent systems"
+    ],
+    "missing_skills": [
+      "Telephony platform integration (e.g., Twilio, Genesys)",
+      "Multi‑language call handling frameworks"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills appear to be optional tools, not core blockers",
+    "is_external_apply": false
+  },
+  {
+    "title": "AWS AI Engineer",
+    "company": "IITMatrix",
+    "url": "https://in.linkedin.com/jobs/view/aws-ai-engineer-at-iitmatrix-4455559989",
+    "score": 65,
+    "verdict": "Good Fit",
+    "reason": "Candidate has strong Python and LLM experience and general AWS cloud exposure, but lacks the specific AWS AI services (Bedrock, SageMaker) required. Overall fit is good but not strong.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "AWS EC2",
+      "LLM frameworks (LangChain)",
+      "Docker",
+      "FastAPI"
+    ],
+    "missing_skills": [
+      "AWS Bedrock",
+      "AWS SageMaker",
+      "AWS AI/ML services (e.g., Comprehend, Rekognition)"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills appear to be optional tools, not core blockers",
+    "is_external_apply": false
+  }
+]

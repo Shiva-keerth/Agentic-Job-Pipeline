@@ -1,0 +1,199 @@
+[
+  {
+    "title": "ML Engineer — GenAI",
+    "company": "ASAMKHYEYA EDUTECH PRIVATE LIMITED",
+    "url": "https://in.linkedin.com/jobs/view/ml-engineer-%E2%80%94-genai-at-asamkhyeya-edutech-private-limited-4441772970",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The JD seeks an entry‑level ML Engineer focused on Generative AI, which aligns with the candidate's extensive GenAI and ML project experience. No hard technical requirements are listed that the candidate lacks.",
+    "experience_required": "Entry level (no specific years mentioned)",
+    "matched_skills": [
+      "Generative AI",
+      "Machine Learning"
+    ],
+    "missing_skills": []
+  },
+  {
+    "title": "Healthcare AI Engineer",
+    "company": "ASAMKHYEYA EDUTECH PRIVATE LIMITED",
+    "url": "https://in.linkedin.com/jobs/view/healthcare-ai-engineer-at-asamkhyeya-edutech-private-limited-4441787307",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The JD requires an entry‑level Healthcare AI Engineer with no explicit tech stack. The candidate has strong Python and AI/ML expertise plus proven healthcare document QA experience, aligning well with the role.",
+    "experience_required": "Entry level (no specific years mentioned)",
+    "matched_skills": [
+      "Python",
+      "AI/ML",
+      "Healthcare domain knowledge"
+    ],
+    "missing_skills": []
+  },
+  {
+    "title": "Full Stack Engineer",
+    "company": "Ciffly",
+    "url": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-ciffly-4440415669",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The candidate meets all core requirements (Python, FastAPI, LangChain, RAG, deployment) and exceeds expectations with extensive AI tooling. Only JavaScript is absent, which is a single hard requirement, resulting in a strong overall fit.",
+    "experience_required": "Fresher / 0–1 year (Entry level)",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "LangChain",
+      "RAG",
+      "Vector databases",
+      "Docker",
+      "AWS EC2",
+      "SQL (SQLite, Supabase)",
+      "Git (implied)"
+    ],
+    "missing_skills": [
+      "JavaScript"
+    ]
+  },
+  {
+    "title": "Forward Deployed Engineer",
+    "company": "SquadStack.ai",
+    "url": "https://in.linkedin.com/jobs/view/forward-deployed-engineer-at-squadstack-ai-4441431816",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The candidate's expertise in Python, RAG pipelines, prompt engineering, LLMs, FastAPI, Docker, and AWS aligns closely with the role's focus on production‑grade AI workflows. The only notable gap is JavaScript, which is optional alongside Python for production code.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "RAG",
+      "Prompt Engineering",
+      "LLM",
+      "FastAPI",
+      "Docker",
+      "AWS",
+      "Voice AI (Whisper)"
+    ],
+    "missing_skills": [
+      "JavaScript"
+    ]
+  },
+  {
+    "title": "Junior GenAI Engineer",
+    "company": "StatusNeo",
+    "url": "https://in.linkedin.com/jobs/view/junior-genai-engineer-at-statusneo-4443095778",
+    "score": 78,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets the 0‑1 year experience requirement and possesses strong expertise in Python, LLMs, RAG, vector stores, and cloud deployment, aligning well with the role. Missing only basic data‑science libraries (Pandas, NumPy, Scikit‑learn), which are not core to the junior GenAI responsibilities.",
+    "experience_required": "0–1 Year",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "REST APIs",
+      "SQL (SQLite, Supabase)",
+      "Vector databases (ChromaDB, FAISS)",
+      "RAG (Retrieval Augmented Generation)",
+      "LLMs (Llama-3, LangChain)",
+      "Generative AI",
+      "AWS (EC2)",
+      "Docker"
+    ],
+    "missing_skills": [
+      "Pandas",
+      "NumPy",
+      "Scikit-learn"
+    ]
+  },
+  {
+    "title": "Software Engineer/AI Developer",
+    "company": "ICSBit Labs",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-ai-developer-at-icsbit-labs-4440445670",
+    "score": 72,
+    "verdict": "Good Fit",
+    "reason": "The JD does not state a minimum experience level, so the candidate passes the mandatory check. Their Python, FastAPI, Docker, and AI integration skills align well with the role's backend and AI requirements. However, they lack explicit OT security and ISA 62443 expertise, keeping the fit solid but not exceptional.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "AI/ML model integration",
+      "API development",
+      "Backend services",
+      "LLM/RAG pipelines"
+    ],
+    "missing_skills": [
+      "Industrial Control Systems (ICS) security knowledge",
+      "ISA 62443 compliance experience",
+      "C/C++ (if required for low‑level OT components)"
+    ]
+  },
+  {
+    "title": "Data Scientist / GenAI Engineer",
+    "company": "KnowDis AI",
+    "url": "https://in.linkedin.com/jobs/view/data-scientist-genai-engineer-at-knowdis-ai-4442617681",
+    "score": 72,
+    "verdict": "Good Fit",
+    "reason": "The candidate matches the core technical stack (LangChain, LangGraph, LLM fine‑tuning) and has strong generative‑AI experience. However, they lack PyTorch experience and do not hold a Tier‑1 institute degree, which are hard requirements. Overall fit is solid but not perfect.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "LangChain",
+      "LangGraph",
+      "LLM fine-tuning"
+    ],
+    "missing_skills": [
+      "PyTorch",
+      "Tier 1 Institute degree"
+    ]
+  },
+  {
+    "title": "AI Junior Developer - System Development in Mumbai",
+    "company": "Cosy Farms",
+    "url": "https://in.linkedin.com/jobs/view/ai-junior-developer-system-development-in-mumbai-at-cosy-farms-4443704436",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The JD requires entry-level AI development with no explicit experience years, matching the candidate's Python and cloud/Docker experience. While the role is generic, the candidate's strong AI background aligns well, making it a good fit.",
+    "experience_required": "Not specified (Entry level)",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS",
+      "AI"
+    ],
+    "missing_skills": []
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Microsoft",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-at-microsoft-4443364620",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The JD does not state a minimum experience requirement, allowing a fresh graduate. The candidate's AI, data, and cloud experience align well with the role, though they lack explicit Azure and Microsoft stack expertise, resulting in a solid but not perfect fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "AI",
+      "Data Engineering",
+      "Python",
+      "FastAPI",
+      "Docker",
+      "Cloud (AWS)"
+    ],
+    "missing_skills": [
+      "Microsoft Azure",
+      "C#",
+      ".NET"
+    ]
+  },
+  {
+    "title": "AI Research Engineer",
+    "company": "Amibba Systems Private Limited",
+    "url": "https://in.linkedin.com/jobs/view/ai-research-engineer-at-amibba-systems-private-limited-4443508656",
+    "score": 65,
+    "verdict": "Good Fit",
+    "reason": "The JD specifies an entry‑level AI Research Engineer role with no explicit tech stack, so the candidate's strong Python and LLM/AI research experience aligns well. Lack of detailed requirements means the fit is good but not exceptional.",
+    "experience_required": "Entry level (no specific years mentioned)",
+    "matched_skills": [
+      "Python",
+      "Machine Learning",
+      "Large Language Models (LLMs)",
+      "AI research"
+    ],
+    "missing_skills": []
+  }
+]
