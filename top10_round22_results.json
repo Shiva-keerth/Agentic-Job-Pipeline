@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Prompt Engineering Intern | Generative AI | ChatGPT | Remote",
+    "company": "Wake Up Whistle",
+    "url": "https://in.linkedin.com/jobs/view/prompt-engineering-intern-generative-ai-chatgpt-remote-at-wake-up-whistle-4457996084",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The internship targets freshers in prompt engineering and generative AI, and Shiva's profile showcases strong expertise in these areas along with hands‑on LLM and AI tool experience. There are no hard skill gaps, making the candidate a strong fit for the role.",
+    "experience_required": "Freshers Welcome",
+    "matched_skills": [
+      "Prompt Engineering",
+      "Generative AI",
+      "LLM Applications",
+      "ChatGPT",
+      "AI Tools",
+      "Python"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "S&C Global Network - AI - Software & Platform - Gen AI - Analyst",
+    "company": "Accenture in India",
+    "url": "https://in.linkedin.com/jobs/view/s-c-global-network-ai-software-platform-gen-ai-analyst-at-accenture-in-india-4448608008",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The JD does not state any minimum experience, allowing a fresh graduate. The candidate's strong background in Python, AI/ML, data engineering, and cloud tooling aligns well with the team's focus on Data & AI solutions. No hard skill gaps are identified.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "Data Science",
+      "Machine Learning",
+      "AI",
+      "Analytics",
+      "AWS",
+      "Docker",
+      "FastAPI"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "GenAI resource",
+    "company": "Ascendion",
+    "url": "https://in.linkedin.com/jobs/view/genai-resource-at-ascendion-4457904285",
+    "score": 75,
+    "verdict": "Good Fit",
+    "reason": "The JD seeks a Generative AI professional with LLM and AI agent expertise, which aligns well with the candidate's experience in LLMs, multi‑agent systems, and relevant tooling. No explicit hard requirements are missing, making this a good fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Large Language Models (LLMs)",
+      "AI agents",
+      "Generative AI",
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "Founding Full-Stack & AI Engineer",
+    "company": "GigaByte Technologies",
+    "url": "https://in.linkedin.com/jobs/view/founding-full-stack-ai-engineer-at-gigabyte-technologies-4457687587",
+    "score": 72,
+    "verdict": "Good Fit",
+    "reason": "The candidate demonstrates strong backend, AI model integration, and deployment experience matching the core needs. Lacks explicit front‑end framework skills, but the JD does not mandate them, resulting in a good overall fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "Python",
+      "LLM integration (LangChain, Llama-3.3-70B)",
+      "Streamlit",
+      "API development"
+    ],
+    "missing_skills": [
+      "Front‑end JavaScript framework (e.g., React/Next.js)",
+      "HTML/CSS UI implementation"
+    ],
+    "apply_decision": "SKIP",
+    "apply_reason": "Core gaps: java",
+    "is_external_apply": false
+  },
+  {
+    "title": "Python Developer",
+    "company": "Infosys",
+    "url": "https://in.linkedin.com/jobs/view/python-developer-at-infosys-4447995151",
+    "score": 72,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets the core Python, FastAPI, cloud, and containerization requirements and has SQL experience, but lacks Django and Flask experience explicitly mentioned in the JD. The overall overlap is strong enough for a good fit, though not a perfect match.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "SQL (SQLite/Supabase)"
+    ],
+    "missing_skills": [
+      "Django",
+      "Flask"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills are optional tools",
+    "is_external_apply": false
+  },
+  {
+    "title": "Managed Services Engineer II-Gen AI - Hyderabad, Bengaluru, Chennai, Pune",
+    "company": "Deloitte",
+    "url": "https://in.linkedin.com/jobs/view/managed-services-engineer-ii-gen-ai-hyderabad-bengaluru-chennai-pune-at-deloitte-4457915576",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The JD does not state a numeric experience requirement, allowing a 0-1 year candidate. While the JD lacks specific tech demands, the candidate's strong generative AI background aligns with the role's focus on GenAI and advanced analytics, making them a good fit.",
+    "experience_required": "Not specified (no explicit years mentioned)",
+    "matched_skills": [
+      "Generative AI",
+      "AI",
+      "GenAI"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  }
+]

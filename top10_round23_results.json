@@ -1,0 +1,256 @@
+[
+  {
+    "title": "Agentic AI Engineer",
+    "company": "TekValue IT Solutions",
+    "url": "https://in.linkedin.com/jobs/view/agentic-ai-engineer-at-tekvalue-it-solutions-4457347526",
+    "score": 92,
+    "verdict": "Strong Match",
+    "reason": "The candidate meets all explicit JD requirements, demonstrating strong Python expertise, deep LLM knowledge, prompt engineering, embeddings, vector search, and hands‑on agentic AI development. No hard requirements are missing, making this a strong fit for the role.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "LLMs",
+      "Prompt Engineering",
+      "Embeddings",
+      "Vector Search (ChromaDB, FAISS)",
+      "AI Agents (LangGraph ReAct, multi‑agent systems)"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "AI Engineer Intern - Goa",
+    "company": "SJ Innovation LLC",
+    "url": "https://in.linkedin.com/jobs/view/ai-engineer-intern-goa-at-sj-innovation-llc-4456297263",
+    "score": 88,
+    "verdict": "Strong Match",
+    "reason": "The candidate exceeds the internship's technical expectations with strong Python, LangChain, prompt engineering, vector DB, and LLM experience. The only gap is direct OpenAI API exposure, which is minor for an entry-level role.",
+    "experience_required": "Not specified (internship, entry-level)",
+    "matched_skills": [
+      "Python",
+      "LangChain",
+      "Prompt Engineering",
+      "Vector databases",
+      "LLMs"
+    ],
+    "missing_skills": [
+      "OpenAI APIs"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills are optional tools",
+    "is_external_apply": false
+  },
+  {
+    "title": "Gen AI Developer",
+    "company": "EXL",
+    "url": "https://in.linkedin.com/jobs/view/gen-ai-developer-at-exl-4446727269",
+    "score": 86,
+    "verdict": "Strong Match",
+    "reason": "The candidate's expertise in LLMs, RAG pipelines, vector stores, API development with FastAPI, and orchestration via LangChain/LangGraph aligns tightly with the JD. No hard requirements are missing, making this a strong fit for the role.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "LLMs (Llama-3.3-70B)",
+      "Retrieval-Augmented Generation (RAG)",
+      "Vector databases (ChromaDB, FAISS)",
+      "FastAPI for scalable APIs",
+      "Docker for microservices",
+      "LangChain / LangGraph orchestration frameworks",
+      "Prompt Engineering"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "AI/ML Engineer",
+    "company": "EXL",
+    "url": "https://in.linkedin.com/jobs/view/ai-ml-engineer-at-exl-4446744296",
+    "score": 78,
+    "verdict": "Good Fit",
+    "reason": "The candidate matches core requirements (Python, FastAPI, LangChain/Graph, vector stores, RAG, prompt engineering) but lacks GCP-specific tooling and explicit CI/CD experience, resulting in a solid but not perfect fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "LangChain",
+      "LangGraph",
+      "ChromaDB",
+      "FAISS",
+      "Prompt Engineering",
+      "Retrieval Augmented Generation",
+      "Vector databases",
+      "RAG pipelines"
+    ],
+    "missing_skills": [
+      "GCP Vertex AI / Cloud Run / Functions / BigQuery / Cloud Storage",
+      "CI/CD pipeline experience"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Tool gaps only (learnable): ci/cd",
+    "is_external_apply": false
+  },
+  {
+    "title": "AIML Engineer",
+    "company": "VMC Soft Technologies, Inc",
+    "url": "https://in.linkedin.com/jobs/view/aiml-engineer-at-vmc-soft-technologies-inc-4457084612",
+    "score": 78,
+    "verdict": "Good Fit",
+    "reason": "The candidate covers all core technical requirements such as Python, LLM/RAG work, prompt engineering, vector stores, and agentic AI, but lacks explicit Azure and CI/CD experience. This makes them a solid candidate for the role, though some upskilling may be needed.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "LLM integration",
+      "Retrieval Augmented Generation (RAG) pipelines",
+      "Prompt Engineering",
+      "Vector databases (ChromaDB, FAISS)",
+      "Agentic AI / multi‑agent systems",
+      "FastAPI",
+      "Docker"
+    ],
+    "missing_skills": [
+      "Azure cloud deployment",
+      "CI/CD pipeline experience"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Tool gaps only (learnable): ci/cd",
+    "is_external_apply": false
+  },
+  {
+    "title": "Python Gen AI Engineer",
+    "company": "Cognizant",
+    "url": "https://in.linkedin.com/jobs/view/python-gen-ai-engineer-at-cognizant-4457456633",
+    "score": 78,
+    "verdict": "Good Fit",
+    "reason": "The candidate matches the core technical stack and agentic AI experience required, but lacks explicit experience with observability tools, CI/CD processes, and AI governance, placing them as a strong good fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "LangChain",
+      "LangGraph",
+      "FastAPI",
+      "Docker",
+      "RAG",
+      "Embeddings",
+      "Prompt Engineering",
+      "Multi-agent systems",
+      "API design",
+      "Microservices"
+    ],
+    "missing_skills": [
+      "LangSmith or similar observability tooling",
+      "CI/CD pipeline experience",
+      "AI governance (guardrails, auditability, human oversight)"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Tool gaps only (learnable): ci/cd",
+    "is_external_apply": false
+  },
+  {
+    "title": "Python Developer - Intern (Remote)",
+    "company": "Abekus",
+    "url": "https://in.linkedin.com/jobs/view/python-developer-intern-remote-at-abekus-4457948044",
+    "score": 75,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets all core requirements (Python, ML/AI experience, data handling) and exceeds expectations with advanced LLM and agentic AI work. Minor gaps in explicit statistics and DL framework experience keep the score in the Good Fit range.",
+    "experience_required": "Not specified (entry-level / internship)",
+    "matched_skills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning concepts",
+      "Data analysis",
+      "Algorithms"
+    ],
+    "missing_skills": [
+      "Formal statistics knowledge",
+      "Deep learning frameworks (e.g., TensorFlow/PyTorch)"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills are optional tools",
+    "is_external_apply": false
+  },
+  {
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "company": "Databricks",
+    "url": "https://in.linkedin.com/jobs/view/ai-engineer-fde-forward-deployed-engineer-at-databricks-4297732991",
+    "score": 75,
+    "verdict": "Good Fit",
+    "reason": "The candidate demonstrates strong expertise in building GenAI applications, RAG pipelines, multi‑agent architectures, and production deployment, aligning well with the role's core responsibilities. Gaps include specific Text2SQL experience and familiarity with Databricks' Spark platform, keeping the fit solid but not perfect.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "RAG",
+      "Multi-agent systems",
+      "LLM fine-tuning",
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "LangChain",
+      "LangGraph",
+      "Vector databases",
+      "Retrieval Augmented Generation"
+    ],
+    "missing_skills": [
+      "Text2SQL",
+      "Databricks/Spark ecosystem",
+      "Large‑scale distributed systems experience"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Tool gaps only (learnable): databricks",
+    "is_external_apply": false
+  },
+  {
+    "title": "Software Engineer Intern",
+    "company": "AI Startup Impact",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-intern-at-ai-startup-impact-4458341406",
+    "score": 72,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets core backend, cloud, and AI requirements and has deployment experience, but lacks explicit frontend UI skills commonly expected for building responsive web applications. Overall a solid fit for an intern role.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "RESTful API development",
+      "Database experience (SQLite, Supabase, Neo4j)",
+      "AI/LLM tooling (LangChain, LangGraph)",
+      "Streamlit (web UI)"
+    ],
+    "missing_skills": [
+      "Modern frontend framework (React/Angular/Vue)",
+      "HTML/CSS/JavaScript for responsive UI",
+      "Dedicated testing frameworks (e.g., Jest, Cypress, PyTest)"
+    ],
+    "apply_decision": "SKIP",
+    "apply_reason": "Core gaps: java",
+    "is_external_apply": false
+  },
+  {
+    "title": "ML/AI Intern",
+    "company": "Josh Talks",
+    "url": "https://in.linkedin.com/jobs/view/ml-ai-intern-at-josh-talks-4458304186",
+    "score": 68,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets core requirements like Docker, cloud (AWS), Python development, and has experience with speech-to-text via Whisper. Lacking Kubernetes, formal ETL pipeline experience, and ASR benchmarking puts the fit in the good range but not strong.",
+    "experience_required": "No specific years; eligibility for students graduating in 2027 (entry-level)",
+    "matched_skills": [
+      "Docker",
+      "AWS EC2",
+      "Python",
+      "FastAPI",
+      "Speech-to-Text (Groq Whisper)",
+      "Data pipelines"
+    ],
+    "missing_skills": [
+      "Kubernetes",
+      "Explicit ETL pipeline design",
+      "ASR benchmarking/evaluation"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Tool gaps only (learnable): kubernetes",
+    "is_external_apply": false
+  }
+]
