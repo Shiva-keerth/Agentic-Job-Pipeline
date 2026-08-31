@@ -1,0 +1,371 @@
+[
+  {
+    "title": "MLOps Engineer",
+    "company": "Virtusa",
+    "url": "https://in.linkedin.com/jobs/view/mlops-engineer-at-virtusa-4421116681",
+    "score": 88,
+    "verdict": "Strong Match",
+    "reason": "The candidate possesses extensive experience with Python, RAG pipelines, prompt engineering, vector stores and embeddings, and production‑grade tooling (FastAPI, Docker, AWS) that align directly with the JD. No hard requirements are missing, resulting in a strong overall fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "RAG",
+      "Prompt Engineering",
+      "Vector Databases",
+      "Embeddings",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "LLM (Llama-3.3-70B)"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "AI Engineer",
+    "company": "DHL",
+    "url": "https://in.linkedin.com/jobs/view/ai-engineer-at-dhl-4454547243",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The JD seeks Python, prompt engineering, and generative AI experience, all of which the candidate possesses. No experience years are required, and there are no hard skills missing, resulting in a strong alignment.",
+    "experience_required": "Not specified (entry-level/fresher implied)",
+    "matched_skills": [
+      "Python",
+      "Prompt Engineering",
+      "Generative AI models"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "AI Engineer - Remote",
+    "company": "Xuman.AI",
+    "url": "https://in.linkedin.com/jobs/view/ai-engineer-remote-at-xuman-ai-4458900730",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The JD seeks engineers to build agentic systems that reason, call tools, and act within a live app. Shiva's extensive experience with LangChain, LangGraph, ReAct agents, vector stores, and cloud deployment aligns directly with these needs, and no hard requirements are unmet.",
+    "experience_required": "Not specified (0-1 years implied)",
+    "matched_skills": [
+      "LangChain",
+      "LangGraph",
+      "ReAct agents",
+      "Agentic AI",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "LLM inference (Llama-3.3, Groq)",
+      "Retrieval Augmented Generation",
+      "Vector databases (ChromaDB, FAISS)",
+      "Tool integration / calling"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "AI/ML Engineer",
+    "company": "Agnios IQ",
+    "url": "https://in.linkedin.com/jobs/view/ai-ml-engineer-at-agnios-iq-4458375575",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The candidate possesses extensive experience with LLMs, RAG, AI agents, and production‑grade deployment tools that align directly with the role’s core responsibilities. The only notable gap is JavaScript/TypeScript, which is a secondary requirement, resulting in a strong overall fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "LLM (Llama-3.3, Groq)",
+      "RAG pipelines",
+      "AI agents (LangGraph ReAct)",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "Vector databases (FAISS, ChromaDB)",
+      "Prompt Engineering",
+      "LangChain",
+      "Neo4j / Knowledge Graphs"
+    ],
+    "missing_skills": [
+      "JavaScript/TypeScript"
+    ],
+    "apply_decision": "SKIP",
+    "apply_reason": "Core gaps: java",
+    "is_external_apply": false
+  },
+  {
+    "title": "Artificial Intelligence Intern | Entry Level | Fresher | AI, Generative AI, Python / Remote",
+    "company": "MediNex Workforce",
+    "url": "https://in.linkedin.com/jobs/view/artificial-intelligence-intern-entry-level-fresher-ai-generative-ai-python-remote-at-medinex-workforce-4459727371",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The candidate possesses strong Python and generative AI experience, along with prompt design and automation skills that align perfectly with the internship's requirements, making them an excellent fit for the entry-level role.",
+    "experience_required": "Fresher / Entry-level (0-1 years)",
+    "matched_skills": [
+      "Python",
+      "Generative AI",
+      "Prompt Engineering",
+      "Automation (Docker, FastAPI)"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "Agentic AI Research Engineer",
+    "company": "Zycus",
+    "url": "https://in.linkedin.com/jobs/view/agentic-ai-research-engineer-at-zycus-4459668929",
+    "score": 78,
+    "verdict": "Good Fit",
+    "reason": "The candidate's experience with agentic AI, multi‑agent frameworks, RAG, and enterprise knowledge graphs aligns closely with Zycus' core requirements. Missing only niche safety, observability, and benchmarking capabilities, the fit remains strong for an entry‑level research engineer.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "LangChain",
+      "LangGraph",
+      "ReAct agents",
+      "Neo4j",
+      "Knowledge Graphs",
+      "Retrieval-Augmented Generation (RAG)",
+      "Multi-agent systems",
+      "Agentic AI",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "Python"
+    ],
+    "missing_skills": [
+      "AI Safety & Guardrails",
+      "AI Observability",
+      "Agent Benchmarking Frameworks"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills are optional tools",
+    "is_external_apply": false
+  },
+  {
+    "title": "Backend Engineer (Agentic AI)",
+    "company": "Autter",
+    "url": "https://in.linkedin.com/jobs/view/backend-engineer-agentic-ai-at-autter-4460865715",
+    "score": 78,
+    "verdict": "Good Fit",
+    "reason": "The candidate matches core backend requirements with Python, FastAPI, REST, Docker, and LLM API experience, aligning well with the agentic AI focus. Lacks explicit GitHub API/webhook experience, which is a key part of the role, keeping the fit solid but not top-tier.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "REST APIs",
+      "Docker",
+      "LLM API integration (Groq API)",
+      "Agentic AI / LangChain / LangGraph",
+      "RAG pipelines"
+    ],
+    "missing_skills": [
+      "GitHub API integration",
+      "Webhook handling"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills are optional tools",
+    "is_external_apply": false
+  },
+  {
+    "title": "AI Intern – Agent Development & MCP Integration",
+    "company": "RChilli Inc.",
+    "url": "https://in.linkedin.com/jobs/view/ai-intern-%E2%80%93-agent-development-mcp-integration-at-rchilli-inc-4458479367",
+    "score": 78,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets all core requirements and many nice-to-have technologies, but lacks explicit experience with mainstream ML libraries. Overall skill overlap is strong, making this a good fit for the intern role.",
+    "experience_required": "Not specified (internship level)",
+    "matched_skills": [
+      "Python",
+      "LangChain",
+      "LangGraph",
+      "RAG",
+      "Docker",
+      "AWS EC2",
+      "LLM integration",
+      "Git/GitHub"
+    ],
+    "missing_skills": [
+      "TensorFlow / PyTorch / scikit-learn"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills are optional tools",
+    "is_external_apply": false
+  },
+  {
+    "title": "GenAI, Cloud & Backend Development (AWS/Azure, Python, APIs, ServiceNow)",
+    "company": "Infosys",
+    "url": "https://in.linkedin.com/jobs/view/genai-cloud-backend-development-aws-azure-python-apis-servicenow-at-infosys-4438962412",
+    "score": 75,
+    "verdict": "Good Fit",
+    "reason": "Candidate has strong Python and generative AI experience plus AWS, Docker, and FastAPI, aligning with core JD needs. Lacks Azure DevOps and ServiceNow, which are noted but not critical, resulting in a good fit.",
+    "experience_required": "Not specified (likely entry-level/fresher)",
+    "matched_skills": [
+      "Python",
+      "AWS (EC2)",
+      "Docker",
+      "FastAPI",
+      "Generative AI",
+      "API development"
+    ],
+    "missing_skills": [
+      "Azure DevOps",
+      "ServiceNow"
+    ],
+    "apply_decision": "SKIP",
+    "apply_reason": "Core gaps: servicenow",
+    "is_external_apply": false
+  },
+  {
+    "title": "Software Engineer",
+    "company": "FlytBase",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-at-flytbase-4457249218",
+    "score": 75,
+    "verdict": "Good Fit",
+    "reason": "The JD does not state a minimum years of experience and seeks AI-native engineers for production-grade backend, cloud, and dashboard work. The candidate's experience with Python, FastAPI, Docker, AWS, Streamlit, and AI/LLM pipelines aligns well, making them a good fit despite the lack of explicit frontend framework mentions.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "Streamlit",
+      "AI/LLM integration",
+      "Backend services",
+      "Automation pipelines"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "AI Engineering Intern",
+    "company": "Unisys",
+    "url": "https://in.linkedin.com/jobs/view/ai-engineering-intern-at-unisys-4460336613",
+    "score": 72,
+    "verdict": "Good Fit",
+    "reason": "The candidate demonstrates strong hands‑on experience building AI agents, cloud deployment, and production pipelines, aligning well with the role's core duties. The only major gap is the required M.Tech qualification, which lowers the fit but does not disqualify the candidate.",
+    "experience_required": "Not specified (entry‑level / currently pursuing or recently completed M.Tech)",
+    "matched_skills": [
+      "AI agents",
+      "LangGraph / ReAct agents",
+      "Multi‑agent systems",
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS (EC2)",
+      "GitHub public projects",
+      "Deployment / production‑ready pipelines"
+    ],
+    "missing_skills": [
+      "M.Tech degree (candidate has B.Tech)",
+      "Azure",
+      "GCP"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills are optional tools",
+    "is_external_apply": false
+  },
+  {
+    "title": "Associate Software Engineer",
+    "company": "ResultFlow",
+    "url": "https://in.linkedin.com/jobs/view/associate-software-engineer-at-resultflow-4458970409",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets most backend and AI requirements and has deployment experience, but lacks explicit JavaScript/frontend skills needed for the browser plugin component.",
+    "experience_required": "Not specified (entry-level)",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "Databases (SQLite, Supabase, Neo4j)",
+      "AI/ML (LLMs, RAG)",
+      "Deployment",
+      "Data pipelines"
+    ],
+    "missing_skills": [
+      "JavaScript",
+      "Frontend web development (e.g., React/HTML/CSS)"
+    ],
+    "apply_decision": "SKIP",
+    "apply_reason": "Core gaps: java",
+    "is_external_apply": false
+  },
+  {
+    "title": "AI/ML Engineer - GEO (GB03 / GB04)",
+    "company": "Bajaj Finserv",
+    "url": "https://in.linkedin.com/jobs/view/ai-ml-engineer-geo-gb03-gb04-at-bajaj-finserv-4458995236",
+    "score": 68,
+    "verdict": "Good Fit",
+    "reason": "The candidate possesses strong LLM, RAG, embeddings, and production deployment skills that align with the JD, but lacks the specific GEO rank‑modeling and AEO/SGE experience the role mandates, resulting in a good but not perfect fit.",
+    "experience_required": "1+ years of experience in rank modelling for GEO and 1+ year in GEO/AEO/SGE",
+    "matched_skills": [
+      "LLMs (Llama-3.3-70B)",
+      "Retrieval Augmented Generation (RAG)",
+      "Embeddings",
+      "Vector databases (ChromaDB, FAISS)",
+      "Prompt Engineering",
+      "Production deployment (Docker, AWS EC2)",
+      "Python",
+      "FastAPI"
+    ],
+    "missing_skills": [
+      "Rank modelling for GEO",
+      "Hands‑on experience with GEO/AEO/SGE initiatives",
+      "Search intent analysis and optimization"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills are optional tools",
+    "is_external_apply": false
+  },
+  {
+    "title": "Machine Learning Engineer, Amazon Music - Catalog Quality",
+    "company": "Amazon Music",
+    "url": "https://in.linkedin.com/jobs/view/machine-learning-engineer-amazon-music-catalog-quality-at-amazon-music-4460373931",
+    "score": 68,
+    "verdict": "Good Fit",
+    "reason": "The candidate has strong experience with LLMs, NLP pipelines, Python, FastAPI, Docker, and AWS, aligning with the ML engineering focus. However, they lack explicit computer vision and deep learning classifier experience, which are core to the role, resulting in a good but not strong match.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "LLMs (Llama-3.3-70B, Groq)",
+      "NLP (Prompt Engineering, Retrieval Augmented Generation)",
+      "ML pipelines (RAG pipelines)"
+    ],
+    "missing_skills": [
+      "Computer Vision",
+      "Deep Learning Classifiers"
+    ],
+    "apply_decision": "SKIP",
+    "apply_reason": "Core gaps: computer vision",
+    "is_external_apply": false
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Optum India",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-at-optum-india-4460571685",
+    "score": 65,
+    "verdict": "Good Fit",
+    "reason": "The JD does not state a minimum experience requirement, allowing the candidate to proceed. While the role is generic software engineering, the candidate's Python, data pipeline, Docker, and cloud experience align with the implied needs. No hard requirements are missing, resulting in a good overall fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "Data processing pipelines",
+      "Software engineering",
+      "Docker",
+      "AWS"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills — perfect match!",
+    "is_external_apply": false
+  }
+]
