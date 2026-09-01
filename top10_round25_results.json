@@ -1,0 +1,234 @@
+[
+  {
+    "title": "AI Engineer — Agents & GenAI",
+    "company": "Rixroent",
+    "url": "https://in.linkedin.com/jobs/view/ai-engineer-%E2%80%94-agents-genai-at-rixroent-4458062615",
+    "score": 88,
+    "verdict": "Strong Match",
+    "reason": "The candidate meets all core JD requirements: strong Python, hands‑on LLM agent development, cloud/container deployment, and API exposure. Their projects also cover speech capabilities and production‑ready pipelines, making them an excellent fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS (EC2)",
+      "LangChain",
+      "LangGraph",
+      "LLM agents",
+      "LLM fine‑tuning",
+      "Speech (Groq Whisper)"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills â€” perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "Founder's Office – GenAI/Developer AI Intern",
+    "company": "CraticAI",
+    "url": "https://in.linkedin.com/jobs/view/founder-s-office-%E2%80%93-genai-developer-ai-intern-at-craticai-4458892471",
+    "score": 88,
+    "verdict": "Strong Match",
+    "reason": "The JD seeks an intern to prototype GenAI solutions, integrate APIs, and build demos. The candidate’s extensive experience with Python, FastAPI, Docker, AWS, LLMs, prompt engineering, and UI tools aligns perfectly, with no critical hard requirements missing.",
+    "experience_required": "Not specified (intern level)",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "LLM integration (Groq API, Llama-3.3-70B)",
+      "Prompt Engineering",
+      "LangChain / LangGraph",
+      "Multi‑agent systems",
+      "Retrieval Augmented Generation",
+      "Streamlit",
+      "Git / repository management"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills â€” perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "Python Developer",
+    "company": "Adhanam Infotech Private Limited",
+    "url": "https://in.linkedin.com/jobs/view/python-developer-at-adhanam-infotech-private-limited-4459498326",
+    "score": 78,
+    "verdict": "Good Fit",
+    "reason": "The candidate possesses strong Python backend and generative AI expertise, covering FastAPI, RAG pipelines, LLM integration, and cloud deployment, aligning well with most JD requirements. Missing Django/Flask experience is a gap but does not outweigh the overall fit, resulting in a good match score.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "RAG",
+      "Prompt Engineering",
+      "LLM integration",
+      "Embeddings",
+      "Vector databases",
+      "AWS",
+      "Docker",
+      "API development"
+    ],
+    "missing_skills": [
+      "Django",
+      "Django REST Framework",
+      "Flask"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills are optional tools",
+    "is_external_apply": false
+  },
+  {
+    "title": "AI Engineer",
+    "company": "Tristone",
+    "url": "https://in.linkedin.com/jobs/view/ai-engineer-at-tristone-4459418644",
+    "score": 75,
+    "verdict": "Good Fit",
+    "reason": "The candidate has strong experience building agentic AI systems, deploying with Docker/AWS, and using LangChain/Graph tools, aligning well with the role's focus on AI agents and production pipelines. The only notable gap is direct experience with the Claude ecosystem, which is a specific hard requirement but not enough to disqualify.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "LangChain",
+      "LangGraph",
+      "Multi-agent systems",
+      "Agentic AI",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "Python",
+      "RAG pipelines",
+      "Prompt Engineering"
+    ],
+    "missing_skills": [
+      "Claude ecosystem (Claude Cowork, Claude Code, Connectors, Skills, Plugins)"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills are optional tools",
+    "is_external_apply": false
+  },
+  {
+    "title": "Applied AI Engineer, Vikasit Sarkar",
+    "company": "LambdaQ labs Pvt. Ltd.",
+    "url": "https://in.linkedin.com/jobs/view/applied-ai-engineer-vikasit-sarkar-at-lambdaq-labs-pvt-ltd-4459677164",
+    "score": 72,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets the core hard requirements—strong Python, data‑pipeline expertise, and production LLM engineering—while lacking the optional Indian‑language fluency. Overall skill overlap is solid, making this a good fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "LLM application engineering",
+      "Data pipeline development",
+      "Production deployment"
+    ],
+    "missing_skills": [
+      "Marathi/Hindi language fluency",
+      "Indian-language NLP experience"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills are optional tools",
+    "is_external_apply": false
+  },
+  {
+    "title": "Gen AI - Engineer",
+    "company": "Iris Software Inc.",
+    "url": "https://in.linkedin.com/jobs/view/gen-ai-engineer-at-iris-software-inc-4461087107",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The JD does not state any experience requirement, so the candidate passes the mandatory check. The candidate's Python, FastAPI, Docker, AWS, and data/ML skills align with the generic cloud and analytics focus of the role. No hard skill gaps are evident, making this a good fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS",
+      "Data Analytics",
+      "MLOps",
+      "Cloud"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills â€” perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "AI ML Engineer",
+    "company": "Infosys",
+    "url": "https://in.linkedin.com/jobs/view/ai-ml-engineer-at-infosys-4441381826",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets core requirements like Python, cloud experience, web app development, and strong GenAI/RAG expertise. However, they lack the specified ML frameworks (TensorFlow, PyTorch, Scikit-learn), which are hard requirements, lowering the overall fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "AWS",
+      "Docker",
+      "FastAPI",
+      "RAG systems",
+      "Agentic AI",
+      "LangChain",
+      "Vector databases",
+      "NLP (LLM-based)"
+    ],
+    "missing_skills": [
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-learn"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills are optional tools",
+    "is_external_apply": false
+  },
+  {
+    "title": "Gen AI Developer",
+    "company": "Tata Consultancy Services",
+    "url": "https://in.linkedin.com/jobs/view/gen-ai-developer-at-tata-consultancy-services-4461050457",
+    "score": 68,
+    "verdict": "Good Fit",
+    "reason": "The candidate demonstrates strong Python and generative AI expertise, including agentic AI, RAG, and vector DBs, aligning well with core JD requirements. However, they lack experience with the specific AWS services (Bedrock, SageMaker, Lambda) that are hard requirements, resulting in a good but not strong match.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "Agentic AI",
+      "LLMs",
+      "Vector Databases (FAISS, ChromaDB)",
+      "Prompt Engineering",
+      "RAG pipelines",
+      "Multi-agent systems"
+    ],
+    "missing_skills": [
+      "AWS Bedrock",
+      "SageMaker",
+      "Lambda"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills are optional tools",
+    "is_external_apply": false
+  },
+  {
+    "title": "Applied AI ML Associate",
+    "company": "JPMorganChase",
+    "url": "https://in.linkedin.com/jobs/view/applied-ai-ml-associate-at-jpmorganchase-4458039836",
+    "score": 65,
+    "verdict": "Good Fit",
+    "reason": "The candidate matches core technical requirements (Python, FastAPI, Docker, AWS, ETL pipelines) but lacks explicit experience in risk model monitoring and banking domain expertise, leading to a solid but not perfect fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "ETL (pipeline automation)",
+      "SQL (SQLite/Supabase)"
+    ],
+    "missing_skills": [
+      "Risk model monitoring",
+      "Statistical model validation",
+      "Banking risk domain knowledge"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills are optional tools",
+    "is_external_apply": false
+  }
+]

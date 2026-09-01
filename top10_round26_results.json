@@ -1,0 +1,146 @@
+[
+  {
+    "title": "AI Engineer / AI Automation Specialist",
+    "company": "Jobgether",
+    "url": "https://in.linkedin.com/jobs/view/ai-engineer-ai-automation-specialist-at-jobgether-4459767475",
+    "score": 85,
+    "verdict": "Strong Match",
+    "reason": "The JD seeks an AI engineer with LLM, API, prompt engineering, and agentic workflow experience. The candidate's extensive work with LangChain, LangGraph, FastAPI, Docker, AWS, and prompt engineering aligns closely, with no hard requirements unmet.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "LangChain",
+      "LangGraph",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "Prompt Engineering",
+      "Multi-agent systems",
+      "LLMs"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills â€” perfect match!",
+    "is_external_apply": false
+  },
+  {
+    "title": "Agentic Development Intern",
+    "company": "Foliox",
+    "url": "https://in.linkedin.com/jobs/view/agentic-development-intern-at-foliox-4460027898",
+    "score": 72,
+    "verdict": "Good Fit",
+    "reason": "The candidate has strong experience with AI agents, LLMs, and deployment tools matching the intern's focus on agentic development. While lacking explicit logistics and RL expertise, the skill set aligns well enough for a good fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "LangChain",
+      "LangGraph",
+      "ReAct agents",
+      "FastAPI",
+      "Docker",
+      "AWS EC2",
+      "LLM inference",
+      "RAG pipelines",
+      "Vector databases"
+    ],
+    "missing_skills": [
+      "Reinforcement learning",
+      "Logistics domain expertise",
+      "Advanced optimization algorithms"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills are optional tools",
+    "is_external_apply": false
+  },
+  {
+    "title": "GenAI / Agentic AI Engineer",
+    "company": "Infosys",
+    "url": "https://in.linkedin.com/jobs/view/genai-agentic-ai-engineer-at-infosys-4433498496",
+    "score": 71,
+    "verdict": "Good Fit",
+    "reason": "The candidate covers the core Python, LangChain/Graph, RAG, prompting, Docker, and retrieval expertise required, but lacks direct experience with AWS Bedrock and the explicit DevOps/testing tools listed, resulting in a solid but not perfect fit.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "LangChain",
+      "LangGraph",
+      "RAG pipelines",
+      "Prompt Engineering",
+      "Docker",
+      "AWS (EC2)",
+      "Retrieval (ChromaDB, FAISS, Neo4j)",
+      "Multi‑agent systems"
+    ],
+    "missing_skills": [
+      "AWS Bedrock model invocation",
+      "Git/CI pipelines",
+      "pytest/unittest (testing frameworks)"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills are optional tools",
+    "is_external_apply": false
+  },
+  {
+    "title": "Full Stack AI Interns",
+    "company": "MYCPE ONE",
+    "url": "https://in.linkedin.com/jobs/view/full-stack-ai-interns-at-mycpe-one-4459221557",
+    "score": 70,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets core backend and AI integration requirements (Python, FastAPI, cloud, LLM APIs) but lacks front‑end React/Next.js experience and explicit PDF/OCR skills. Overall alignment is strong enough for a good fit.",
+    "experience_required": "Freshers (0-1 years)",
+    "matched_skills": [
+      "Python",
+      "FastAPI",
+      "AWS EC2",
+      "Docker",
+      "LLM APIs (Groq, Llama-3.3-70B)"
+    ],
+    "missing_skills": [
+      "React / Next.js",
+      "PDF/OCR handling",
+      "AI coding tools (Codex, Claude)"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Tool gaps only (learnable): react",
+    "is_external_apply": false
+  },
+  {
+    "title": "Python Developer (ML)",
+    "company": "Parsewave",
+    "url": "https://in.linkedin.com/jobs/view/python-developer-ml-at-parsewave-4459782334",
+    "score": 68,
+    "verdict": "Good Fit",
+    "reason": "The candidate meets the core requirements of Python and Docker and likely works in a Linux environment, aligning with the JD. They lack specific tooling experience with docker-compose, shell scripting, and AI coding assistants, which keeps the fit solid but not perfect.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "Docker",
+      "Linux (implied)"
+    ],
+    "missing_skills": [
+      "docker-compose",
+      "Bash/Zsh/Sh scripting",
+      "AI coding tools (Cursor, Claude Code, Codex)"
+    ],
+    "apply_decision": "APPLY",
+    "apply_reason": "Missing skills are optional tools",
+    "is_external_apply": false
+  },
+  {
+    "title": "Engineer Software (Applied AI) [T500-28172]",
+    "company": "Albertsons Companies India",
+    "url": "https://in.linkedin.com/jobs/view/engineer-software-applied-ai-t500-28172-at-albertsons-companies-india-4448875088",
+    "score": 65,
+    "verdict": "Good Fit",
+    "reason": "The JD does not state any experience minimum, allowing a 0‑1 year candidate. While the role emphasizes cloud‑based data platforms and AI, the candidate's Python, Docker, and cloud experience align well, though specific Google Cloud expertise is absent. Overall fit is solid for an entry‑level applied AI engineer.",
+    "experience_required": "Not specified",
+    "matched_skills": [
+      "Python",
+      "Docker",
+      "Cloud (AWS/Google Cloud)"
+    ],
+    "missing_skills": [],
+    "apply_decision": "APPLY",
+    "apply_reason": "No missing skills â€” perfect match!",
+    "is_external_apply": false
+  }
+]
