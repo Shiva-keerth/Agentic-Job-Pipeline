@@ -172,14 +172,23 @@ Look for phrases like "X years", "X+ years", "X-Y years", "X to Y years", "minim
 "at least X years", "Exp: X", or any similar phrasing.
 
 DISQUALIFY IMMEDIATELY (set "verdict" to "DISQUALIFIED" and "match_score" to 0) if ANY of these are true:
-  a) The JD mentions ANY experience requirement of 2 or more years. Examples that MUST be disqualified:
-     "2+ years", "3-6 years", "3 to 6 years", "5+ years", "2-3 years", "minimum 3 years".
-     Even if the tech stack is a perfect match, you MUST still disqualify. NO EXCEPTIONS.
+  a) The JD has a HARD experience requirement of 3 or more years with NO flexibility language.
+     Examples that MUST be disqualified: "5+ years required", "3-6 years", "minimum 4 years".
   b) The role title or JD implies Senior / Lead / Principal / Staff / Manager / Director level.
   c) The role is Contract / Freelance / Gig with no permanent track.
 
+IMPORTANT EXCEPTION — DO NOT DISQUALIFY if the JD mentions 2-3 years BUT ALSO includes
+flexibility language such as:
+  - "or equivalent project experience"
+  - "or strong portfolio"
+  - "fresher with relevant skills may apply"
+  - "0-2 years" or "0-3 years" (range starting from 0)
+  - "new graduates welcome"
+  - "experience preferred but not mandatory"
+In these cases, proceed to Step 2 but note the experience risk in your reason.
+
 ONLY proceed to Step 2 if the experience requirement is 0-1 years, "fresher", "entry-level",
-"new grad", or NOT mentioned at all.
+"new grad", NOT mentioned at all, or has flexibility language as described above.
 
 STEP 2 — TECH STACK MATCH (only if Step 1 passed):
 - List which of the candidate's skills directly appear or are implied in the JD.
@@ -213,69 +222,77 @@ def evaluate_job(job: dict, jd_text: str) -> dict:
         profile=CANDIDATE_PROFILE,
         company=job["company"],
         role=job["role"],
-        jd_text=clean_jd[:1500]  # Groq context limit guard
+        jd_text=clean_jd[:5000]  # Increased from 1500 — was cutting off experience reqs in longer JDs
     )
 
     # Model fallback chain: GPT OSS primary (clean JSON), Qwen backup
     models = ["openai/gpt-oss-120b", "qwen/qwen3.6-27b"]
     last_error = "Unknown error"
 
-    for i, model in enumerate(models):
-        try:
-            start_time = time.time()
-            response = client.chat.completions.create(
-                model=model,
-                messages=[{"role": "user", "content": prompt}],
-                max_tokens=1024,
-                temperature=0.1   # Low temp for consistent structured output
-            )
-            latency_ms = (time.time() - start_time) * 1000
-            raw = response.choices[0].message.content.strip()
+    MAX_RETRIES = 3
+    for attempt in range(MAX_RETRIES):
+        for i, model in enumerate(models):
+            try:
+                start_time = time.time()
+                response = client.chat.completions.create(
+                    model=model,
+                    messages=[{"role": "user", "content": prompt}],
+                    max_tokens=1024,
+                    temperature=0.1   # Low temp for consistent structured output
+                )
+                latency_ms = (time.time() - start_time) * 1000
+                raw = response.choices[0].message.content.strip()
 
-            # Strip Qwen's <think>...</think> chain-of-thought block
-            if "<think>" in raw and "</think>" in raw:
-                raw = raw.split("</think>")[-1].strip()
+                # Strip Qwen's <think>...</think> chain-of-thought block
+                if "<think>" in raw and "</think>" in raw:
+                    raw = raw.split("</think>")[-1].strip()
 
-            # Strip markdown fences if model adds them
-            if raw.startswith("```"):
-                raw = raw.split("```")[1]
-                if raw.startswith("json"):
-                    raw = raw[4:]
+                # Strip markdown fences if model adds them
+                if raw.startswith("```"):
+                    raw = raw.split("```")[1]
+                    if raw.startswith("json"):
+                        raw = raw[4:]
 
-            result = json.loads(raw)
-            
-            # Apply external penalty logic (conditional on short JD)
-            if job.get("is_external", False) and len(clean_jd.split()) < 150:
-                result["match_score"] = max(0, result.get("match_score", 0) - 30)
-                result["reason"] = f"[External Penalty applied due to short JD] {result.get('reason', '')}"
+                result = json.loads(raw)
+                
+                # Apply external penalty logic (conditional on short JD)
+                if job.get("is_external", False) and len(clean_jd.split()) < 150:
+                    result["match_score"] = max(0, result.get("match_score", 0) - 30)
+                    result["reason"] = f"[External Penalty applied due to short JD] {result.get('reason', '')}"
 
-            prompt_t = response.usage.prompt_tokens if hasattr(response, 'usage') and hasattr(response.usage, 'prompt_tokens') else 0
-            comp_t = response.usage.completion_tokens if hasattr(response, 'usage') and hasattr(response.usage, 'completion_tokens') else 0
-            
-            log_telemetry(
-                company=job["company"], role=job["role"], eval_type='LLM',
-                model_used=model, is_fallback=bool(i > 0),
-                prompt_tokens=prompt_t, completion_tokens=comp_t,
-                latency_ms=latency_ms, verdict=result.get("verdict", "UNKNOWN"), reason=result.get("reason", "")
-            )
+                prompt_t = response.usage.prompt_tokens if hasattr(response, 'usage') and hasattr(response.usage, 'prompt_tokens') else 0
+                comp_t = response.usage.completion_tokens if hasattr(response, 'usage') and hasattr(response.usage, 'completion_tokens') else 0
+                
+                log_telemetry(
+                    company=job["company"], role=job["role"], eval_type='LLM',
+                    model_used=model, is_fallback=bool(i > 0),
+                    prompt_tokens=prompt_t, completion_tokens=comp_t,
+                    latency_ms=latency_ms, verdict=result.get("verdict", "UNKNOWN"), reason=result.get("reason", "")
+                )
 
-            return result
+                return result
 
-        except json.JSONDecodeError as e:
-            print(f"[Evaluator] JSON parse failed on {model} for {job['role']} @ {job['company']}. Trying next model.")
-            last_error = f"JSON parse failed: {e}"
-            continue
-        except Exception as e:
-            print(f"[Evaluator] {model} failed: {e}. Trying next model.")
-            last_error = str(e)
-            continue
+            except json.JSONDecodeError as e:
+                print(f"[Evaluator] JSON parse failed on {model} for {job['role']} @ {job['company']}. Trying next model.")
+                last_error = f"JSON parse failed: {e}"
+                continue
+            except Exception as e:
+                print(f"[Evaluator] {model} failed: {e}. Trying next model.")
+                last_error = str(e)
+                continue
 
-    print(f"[Evaluator] All models failed for {job['role']} @ {job['company']}")
+        # All models failed on this attempt — retry with backoff (unless last attempt)
+        if attempt < MAX_RETRIES - 1:
+            backoff = 5 * (2 ** attempt)  # 5s, 10s, 20s
+            print(f"[Evaluator] All models failed (attempt {attempt+1}/{MAX_RETRIES}). Retrying in {backoff}s...")
+            time.sleep(backoff)
+
+    print(f"[Evaluator] All models failed after {MAX_RETRIES} attempts for {job['role']} @ {job['company']}")
     log_telemetry(
         company=job["company"], role=job["role"], eval_type='ERROR',
         model_used="ALL_MODELS_FAILED", is_fallback=True,
         prompt_tokens=0, completion_tokens=0, latency_ms=0.0,
-        verdict="ERROR", reason=last_error
+        verdict="ERROR", reason=f"Failed after {MAX_RETRIES} retries: {last_error}"
     )
     return None
 
