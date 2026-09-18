@@ -222,7 +222,7 @@ def evaluate_job(job: dict, jd_text: str) -> dict:
         profile=CANDIDATE_PROFILE,
         company=job["company"],
         role=job["role"],
-        jd_text=clean_jd[:5000]  # Increased from 1500 — was cutting off experience reqs in longer JDs
+        jd_text=clean_jd[:18000]  # Measured: longest JD (Fujitsu) was 17,303 chars. Set to 18,000 for headroom.
     )
 
     # Model fallback chain: GPT OSS primary (clean JSON), Qwen backup
