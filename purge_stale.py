@@ -20,6 +20,7 @@ def purge_stale_jobs():
     else:
         print(f"Found {stale_count} stale rows (scraped but never evaluated). Purging...")
         
+        # NEVER run without a fresh backup — see incident Sep 2026
         cursor.execute("DELETE FROM applications WHERE verdict IS NULL OR verdict = ''")
         conn.commit()
         
